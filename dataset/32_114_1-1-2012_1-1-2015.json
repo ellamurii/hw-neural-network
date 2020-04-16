@@ -1,0 +1,3642 @@
+[
+    {
+        "date": "Jan 02, 2012 00:00:00",
+        "closing_price_raw": 97.05,
+        "closing_price_normalized": 1
+    },
+    {
+        "date": "Jan 03, 2012 00:00:00",
+        "closing_price_raw": 99,
+        "closing_price_normalized": 1.074179743223966
+    },
+    {
+        "date": "Jan 04, 2012 00:00:00",
+        "closing_price_raw": 102,
+        "closing_price_normalized": 1.1883024251069902
+    },
+    {
+        "date": "Jan 05, 2012 00:00:00",
+        "closing_price_raw": 101.3,
+        "closing_price_normalized": 1.1616737993342843
+    },
+    {
+        "date": "Jan 06, 2012 00:00:00",
+        "closing_price_raw": 101,
+        "closing_price_normalized": 1.150261531145982
+    },
+    {
+        "date": "Jan 09, 2012 00:00:00",
+        "closing_price_raw": 102.6,
+        "closing_price_normalized": 1.2111269614835947
+    },
+    {
+        "date": "Jan 10, 2012 00:00:00",
+        "closing_price_raw": 105.9,
+        "closing_price_normalized": 1.3366619115549219
+    },
+    {
+        "date": "Jan 11, 2012 00:00:00",
+        "closing_price_raw": 106,
+        "closing_price_normalized": 1.3404660009510225
+    },
+    {
+        "date": "Jan 12, 2012 00:00:00",
+        "closing_price_raw": 106,
+        "closing_price_normalized": 1.3404660009510225
+    },
+    {
+        "date": "Jan 13, 2012 00:00:00",
+        "closing_price_raw": 106,
+        "closing_price_normalized": 1.3404660009510225
+    },
+    {
+        "date": "Jan 16, 2012 00:00:00",
+        "closing_price_raw": 110,
+        "closing_price_normalized": 1.4926295767950548
+    },
+    {
+        "date": "Jan 17, 2012 00:00:00",
+        "closing_price_raw": 111.8,
+        "closing_price_normalized": 1.5611031859248694
+    },
+    {
+        "date": "Jan 18, 2012 00:00:00",
+        "closing_price_raw": 113.1,
+        "closing_price_normalized": 1.6105563480741796
+    },
+    {
+        "date": "Jan 19, 2012 00:00:00",
+        "closing_price_raw": 114,
+        "closing_price_normalized": 1.644793152639087
+    },
+    {
+        "date": "Jan 20, 2012 00:00:00",
+        "closing_price_raw": 114.3,
+        "closing_price_normalized": 1.6562054208273895
+    },
+    {
+        "date": "Jan 24, 2012 00:00:00",
+        "closing_price_raw": 110,
+        "closing_price_normalized": 1.4926295767950548
+    },
+    {
+        "date": "Jan 25, 2012 00:00:00",
+        "closing_price_raw": 109.9,
+        "closing_price_normalized": 1.4888254873989544
+    },
+    {
+        "date": "Jan 26, 2012 00:00:00",
+        "closing_price_raw": 106,
+        "closing_price_normalized": 1.3404660009510225
+    },
+    {
+        "date": "Jan 27, 2012 00:00:00",
+        "closing_price_raw": 107.6,
+        "closing_price_normalized": 1.4013314312886351
+    },
+    {
+        "date": "Jan 30, 2012 00:00:00",
+        "closing_price_raw": 109.1,
+        "closing_price_normalized": 1.4583927722301473
+    },
+    {
+        "date": "Jan 31, 2012 00:00:00",
+        "closing_price_raw": 113.9,
+        "closing_price_normalized": 1.6409890632429867
+    },
+    {
+        "date": "Feb 01, 2012 00:00:00",
+        "closing_price_raw": 116.9,
+        "closing_price_normalized": 1.755111745126011
+    },
+    {
+        "date": "Feb 02, 2012 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Feb 03, 2012 00:00:00",
+        "closing_price_raw": 114,
+        "closing_price_normalized": 1.644793152639087
+    },
+    {
+        "date": "Feb 06, 2012 00:00:00",
+        "closing_price_raw": 121.3,
+        "closing_price_normalized": 1.9224916785544461
+    },
+    {
+        "date": "Feb 07, 2012 00:00:00",
+        "closing_price_raw": 123,
+        "closing_price_normalized": 1.98716119828816
+    },
+    {
+        "date": "Feb 08, 2012 00:00:00",
+        "closing_price_raw": 124.7,
+        "closing_price_normalized": 2.051830718021874
+    },
+    {
+        "date": "Feb 09, 2012 00:00:00",
+        "closing_price_raw": 122.8,
+        "closing_price_normalized": 1.9795530194959583
+    },
+    {
+        "date": "Feb 10, 2012 00:00:00",
+        "closing_price_raw": 126.5,
+        "closing_price_normalized": 2.1203043271516884
+    },
+    {
+        "date": "Feb 13, 2012 00:00:00",
+        "closing_price_raw": 125.2,
+        "closing_price_normalized": 2.0708511650023778
+    },
+    {
+        "date": "Feb 14, 2012 00:00:00",
+        "closing_price_raw": 121.8,
+        "closing_price_normalized": 1.9415121255349501
+    },
+    {
+        "date": "Feb 15, 2012 00:00:00",
+        "closing_price_raw": 124.2,
+        "closing_price_normalized": 2.03281027104137
+    },
+    {
+        "date": "Feb 16, 2012 00:00:00",
+        "closing_price_raw": 123.2,
+        "closing_price_normalized": 1.9947693770803618
+    },
+    {
+        "date": "Feb 17, 2012 00:00:00",
+        "closing_price_raw": 124.9,
+        "closing_price_normalized": 2.0594388968140755
+    },
+    {
+        "date": "Feb 20, 2012 00:00:00",
+        "closing_price_raw": 127,
+        "closing_price_normalized": 2.1393247741321924
+    },
+    {
+        "date": "Feb 21, 2012 00:00:00",
+        "closing_price_raw": 129,
+        "closing_price_normalized": 2.2154065620542083
+    },
+    {
+        "date": "Feb 22, 2012 00:00:00",
+        "closing_price_raw": 128.7,
+        "closing_price_normalized": 2.2039942938659056
+    },
+    {
+        "date": "Feb 23, 2012 00:00:00",
+        "closing_price_raw": 127.2,
+        "closing_price_normalized": 2.146932952924394
+    },
+    {
+        "date": "Feb 24, 2012 00:00:00",
+        "closing_price_raw": 126.6,
+        "closing_price_normalized": 2.124108416547789
+    },
+    {
+        "date": "Feb 27, 2012 00:00:00",
+        "closing_price_raw": 124.3,
+        "closing_price_normalized": 2.0366143604374702
+    },
+    {
+        "date": "Feb 28, 2012 00:00:00",
+        "closing_price_raw": 124.1,
+        "closing_price_normalized": 2.0290061816452685
+    },
+    {
+        "date": "Feb 29, 2012 00:00:00",
+        "closing_price_raw": 129,
+        "closing_price_normalized": 2.2154065620542083
+    },
+    {
+        "date": "Mar 01, 2012 00:00:00",
+        "closing_price_raw": 129,
+        "closing_price_normalized": 2.2154065620542083
+    },
+    {
+        "date": "Mar 02, 2012 00:00:00",
+        "closing_price_raw": 131,
+        "closing_price_normalized": 2.2914883499762246
+    },
+    {
+        "date": "Mar 05, 2012 00:00:00",
+        "closing_price_raw": 129.7,
+        "closing_price_normalized": 2.2420351878269136
+    },
+    {
+        "date": "Mar 06, 2012 00:00:00",
+        "closing_price_raw": 129.4,
+        "closing_price_normalized": 2.230622919638612
+    },
+    {
+        "date": "Mar 07, 2012 00:00:00",
+        "closing_price_raw": 129.4,
+        "closing_price_normalized": 2.230622919638612
+    },
+    {
+        "date": "Mar 08, 2012 00:00:00",
+        "closing_price_raw": 130.7,
+        "closing_price_normalized": 2.2800760817879215
+    },
+    {
+        "date": "Mar 09, 2012 00:00:00",
+        "closing_price_raw": 133.2,
+        "closing_price_normalized": 2.375178316690442
+    },
+    {
+        "date": "Mar 12, 2012 00:00:00",
+        "closing_price_raw": 137,
+        "closing_price_normalized": 2.5197337137422733
+    },
+    {
+        "date": "Mar 13, 2012 00:00:00",
+        "closing_price_raw": 139.9,
+        "closing_price_normalized": 2.6300523062291967
+    },
+    {
+        "date": "Mar 14, 2012 00:00:00",
+        "closing_price_raw": 142.8,
+        "closing_price_normalized": 2.7403708987161206
+    },
+    {
+        "date": "Mar 15, 2012 00:00:00",
+        "closing_price_raw": 143.1,
+        "closing_price_normalized": 2.7517831669044224
+    },
+    {
+        "date": "Mar 16, 2012 00:00:00",
+        "closing_price_raw": 146.5,
+        "closing_price_normalized": 2.88112220637185
+    },
+    {
+        "date": "Mar 19, 2012 00:00:00",
+        "closing_price_raw": 147,
+        "closing_price_normalized": 2.900142653352354
+    },
+    {
+        "date": "Mar 20, 2012 00:00:00",
+        "closing_price_raw": 149.2,
+        "closing_price_normalized": 2.9838326200665715
+    },
+    {
+        "date": "Mar 21, 2012 00:00:00",
+        "closing_price_raw": 148.5,
+        "closing_price_normalized": 2.957203994293866
+    },
+    {
+        "date": "Mar 22, 2012 00:00:00",
+        "closing_price_raw": 148,
+        "closing_price_normalized": 2.938183547313362
+    },
+    {
+        "date": "Mar 23, 2012 00:00:00",
+        "closing_price_raw": 148,
+        "closing_price_normalized": 2.938183547313362
+    },
+    {
+        "date": "Mar 26, 2012 00:00:00",
+        "closing_price_raw": 141,
+        "closing_price_normalized": 2.6718972895863056
+    },
+    {
+        "date": "Mar 27, 2012 00:00:00",
+        "closing_price_raw": 140.6,
+        "closing_price_normalized": 2.656680932001902
+    },
+    {
+        "date": "Mar 28, 2012 00:00:00",
+        "closing_price_raw": 143.5,
+        "closing_price_normalized": 2.766999524488826
+    },
+    {
+        "date": "Mar 29, 2012 00:00:00",
+        "closing_price_raw": 143.9,
+        "closing_price_normalized": 2.7822158820732295
+    },
+    {
+        "date": "Mar 30, 2012 00:00:00",
+        "closing_price_raw": 143,
+        "closing_price_normalized": 2.7479790775083215
+    },
+    {
+        "date": "Apr 02, 2012 00:00:00",
+        "closing_price_raw": 137.9,
+        "closing_price_normalized": 2.553970518307181
+    },
+    {
+        "date": "Apr 03, 2012 00:00:00",
+        "closing_price_raw": 142,
+        "closing_price_normalized": 2.7099381835473135
+    },
+    {
+        "date": "Apr 04, 2012 00:00:00",
+        "closing_price_raw": 140.1,
+        "closing_price_normalized": 2.637660485021398
+    },
+    {
+        "date": "Apr 10, 2012 00:00:00",
+        "closing_price_raw": 139,
+        "closing_price_normalized": 2.5958155016642896
+    },
+    {
+        "date": "Apr 11, 2012 00:00:00",
+        "closing_price_raw": 138.6,
+        "closing_price_normalized": 2.580599144079886
+    },
+    {
+        "date": "Apr 12, 2012 00:00:00",
+        "closing_price_raw": 139,
+        "closing_price_normalized": 2.5958155016642896
+    },
+    {
+        "date": "Apr 13, 2012 00:00:00",
+        "closing_price_raw": 139.7,
+        "closing_price_normalized": 2.6224441274369945
+    },
+    {
+        "date": "Apr 16, 2012 00:00:00",
+        "closing_price_raw": 141.4,
+        "closing_price_normalized": 2.687113647170709
+    },
+    {
+        "date": "Apr 17, 2012 00:00:00",
+        "closing_price_raw": 141.1,
+        "closing_price_normalized": 2.675701378982406
+    },
+    {
+        "date": "Apr 18, 2012 00:00:00",
+        "closing_price_raw": 144.6,
+        "closing_price_normalized": 2.8088445078459343
+    },
+    {
+        "date": "Apr 19, 2012 00:00:00",
+        "closing_price_raw": 145.9,
+        "closing_price_normalized": 2.8582976699952454
+    },
+    {
+        "date": "Apr 20, 2012 00:00:00",
+        "closing_price_raw": 146.1,
+        "closing_price_normalized": 2.8659058487874463
+    },
+    {
+        "date": "Apr 23, 2012 00:00:00",
+        "closing_price_raw": 142,
+        "closing_price_normalized": 2.7099381835473135
+    },
+    {
+        "date": "Apr 24, 2012 00:00:00",
+        "closing_price_raw": 144,
+        "closing_price_normalized": 2.78601997146933
+    },
+    {
+        "date": "Apr 25, 2012 00:00:00",
+        "closing_price_raw": 143.1,
+        "closing_price_normalized": 2.7517831669044224
+    },
+    {
+        "date": "Apr 26, 2012 00:00:00",
+        "closing_price_raw": 145,
+        "closing_price_normalized": 2.824060865430338
+    },
+    {
+        "date": "Apr 27, 2012 00:00:00",
+        "closing_price_raw": 143,
+        "closing_price_normalized": 2.7479790775083215
+    },
+    {
+        "date": "Apr 30, 2012 00:00:00",
+        "closing_price_raw": 143,
+        "closing_price_normalized": 2.7479790775083215
+    },
+    {
+        "date": "May 02, 2012 00:00:00",
+        "closing_price_raw": 149,
+        "closing_price_normalized": 2.97622444127437
+    },
+    {
+        "date": "May 03, 2012 00:00:00",
+        "closing_price_raw": 155,
+        "closing_price_normalized": 3.204469805040419
+    },
+    {
+        "date": "May 04, 2012 00:00:00",
+        "closing_price_raw": 154,
+        "closing_price_normalized": 3.166428911079411
+    },
+    {
+        "date": "May 07, 2012 00:00:00",
+        "closing_price_raw": 149.6,
+        "closing_price_normalized": 2.9990489776509746
+    },
+    {
+        "date": "May 08, 2012 00:00:00",
+        "closing_price_raw": 148.4,
+        "closing_price_normalized": 2.9533999048977657
+    },
+    {
+        "date": "May 09, 2012 00:00:00",
+        "closing_price_raw": 145,
+        "closing_price_normalized": 2.824060865430338
+    },
+    {
+        "date": "May 10, 2012 00:00:00",
+        "closing_price_raw": 143.5,
+        "closing_price_normalized": 2.766999524488826
+    },
+    {
+        "date": "May 11, 2012 00:00:00",
+        "closing_price_raw": 142.7,
+        "closing_price_normalized": 2.736566809320019
+    },
+    {
+        "date": "May 14, 2012 00:00:00",
+        "closing_price_raw": 133.2,
+        "closing_price_normalized": 2.375178316690442
+    },
+    {
+        "date": "May 15, 2012 00:00:00",
+        "closing_price_raw": 125.1,
+        "closing_price_normalized": 2.0670470756062764
+    },
+    {
+        "date": "May 16, 2012 00:00:00",
+        "closing_price_raw": 120.1,
+        "closing_price_normalized": 1.8768426058012362
+    },
+    {
+        "date": "May 17, 2012 00:00:00",
+        "closing_price_raw": 132,
+        "closing_price_normalized": 2.329529243937233
+    },
+    {
+        "date": "May 18, 2012 00:00:00",
+        "closing_price_raw": 125.5,
+        "closing_price_normalized": 2.08226343319068
+    },
+    {
+        "date": "May 21, 2012 00:00:00",
+        "closing_price_raw": 127.5,
+        "closing_price_normalized": 2.1583452211126963
+    },
+    {
+        "date": "May 22, 2012 00:00:00",
+        "closing_price_raw": 131,
+        "closing_price_normalized": 2.2914883499762246
+    },
+    {
+        "date": "May 23, 2012 00:00:00",
+        "closing_price_raw": 130.1,
+        "closing_price_normalized": 2.257251545411317
+    },
+    {
+        "date": "May 24, 2012 00:00:00",
+        "closing_price_raw": 125.1,
+        "closing_price_normalized": 2.0670470756062764
+    },
+    {
+        "date": "May 25, 2012 00:00:00",
+        "closing_price_raw": 127.7,
+        "closing_price_normalized": 2.165953399904898
+    },
+    {
+        "date": "May 28, 2012 00:00:00",
+        "closing_price_raw": 134.5,
+        "closing_price_normalized": 2.424631478839753
+    },
+    {
+        "date": "May 29, 2012 00:00:00",
+        "closing_price_raw": 137,
+        "closing_price_normalized": 2.5197337137422733
+    },
+    {
+        "date": "May 30, 2012 00:00:00",
+        "closing_price_raw": 132.7,
+        "closing_price_normalized": 2.356157869709938
+    },
+    {
+        "date": "May 31, 2012 00:00:00",
+        "closing_price_raw": 131,
+        "closing_price_normalized": 2.2914883499762246
+    },
+    {
+        "date": "Jun 01, 2012 00:00:00",
+        "closing_price_raw": 134,
+        "closing_price_normalized": 2.405611031859249
+    },
+    {
+        "date": "Jun 04, 2012 00:00:00",
+        "closing_price_raw": 129.9,
+        "closing_price_normalized": 2.2496433666191162
+    },
+    {
+        "date": "Jun 05, 2012 00:00:00",
+        "closing_price_raw": 130.1,
+        "closing_price_normalized": 2.257251545411317
+    },
+    {
+        "date": "Jun 06, 2012 00:00:00",
+        "closing_price_raw": 127.5,
+        "closing_price_normalized": 2.1583452211126963
+    },
+    {
+        "date": "Jun 07, 2012 00:00:00",
+        "closing_price_raw": 130.4,
+        "closing_price_normalized": 2.2686638135996198
+    },
+    {
+        "date": "Jun 08, 2012 00:00:00",
+        "closing_price_raw": 129.9,
+        "closing_price_normalized": 2.2496433666191162
+    },
+    {
+        "date": "Jun 11, 2012 00:00:00",
+        "closing_price_raw": 133,
+        "closing_price_normalized": 2.367570137898241
+    },
+    {
+        "date": "Jun 13, 2012 00:00:00",
+        "closing_price_raw": 142,
+        "closing_price_normalized": 2.7099381835473135
+    },
+    {
+        "date": "Jun 14, 2012 00:00:00",
+        "closing_price_raw": 138.9,
+        "closing_price_normalized": 2.5920114122681888
+    },
+    {
+        "date": "Jun 15, 2012 00:00:00",
+        "closing_price_raw": 136,
+        "closing_price_normalized": 2.481692819781265
+    },
+    {
+        "date": "Jun 18, 2012 00:00:00",
+        "closing_price_raw": 139.5,
+        "closing_price_normalized": 2.614835948644793
+    },
+    {
+        "date": "Jun 19, 2012 00:00:00",
+        "closing_price_raw": 137.8,
+        "closing_price_normalized": 2.55016642891108
+    },
+    {
+        "date": "Jun 20, 2012 00:00:00",
+        "closing_price_raw": 141.1,
+        "closing_price_normalized": 2.675701378982406
+    },
+    {
+        "date": "Jun 21, 2012 00:00:00",
+        "closing_price_raw": 139.5,
+        "closing_price_normalized": 2.614835948644793
+    },
+    {
+        "date": "Jun 22, 2012 00:00:00",
+        "closing_price_raw": 138.8,
+        "closing_price_normalized": 2.588207322872088
+    },
+    {
+        "date": "Jun 25, 2012 00:00:00",
+        "closing_price_raw": 138.5,
+        "closing_price_normalized": 2.5767950546837852
+    },
+    {
+        "date": "Jun 26, 2012 00:00:00",
+        "closing_price_raw": 136.1,
+        "closing_price_normalized": 2.4854969091773658
+    },
+    {
+        "date": "Jun 27, 2012 00:00:00",
+        "closing_price_raw": 137,
+        "closing_price_normalized": 2.5197337137422733
+    },
+    {
+        "date": "Jun 28, 2012 00:00:00",
+        "closing_price_raw": 141.5,
+        "closing_price_normalized": 2.6909177365668095
+    },
+    {
+        "date": "Jun 29, 2012 00:00:00",
+        "closing_price_raw": 142.4,
+        "closing_price_normalized": 2.725154541131717
+    },
+    {
+        "date": "Jul 02, 2012 00:00:00",
+        "closing_price_raw": 139.3,
+        "closing_price_normalized": 2.6072277698525923
+    },
+    {
+        "date": "Jul 03, 2012 00:00:00",
+        "closing_price_raw": 143,
+        "closing_price_normalized": 2.7479790775083215
+    },
+    {
+        "date": "Jul 04, 2012 00:00:00",
+        "closing_price_raw": 143.1,
+        "closing_price_normalized": 2.7517831669044224
+    },
+    {
+        "date": "Jul 05, 2012 00:00:00",
+        "closing_price_raw": 144.2,
+        "closing_price_normalized": 2.793628150261531
+    },
+    {
+        "date": "Jul 06, 2012 00:00:00",
+        "closing_price_raw": 143,
+        "closing_price_normalized": 2.7479790775083215
+    },
+    {
+        "date": "Jul 09, 2012 00:00:00",
+        "closing_price_raw": 140.2,
+        "closing_price_normalized": 2.6414645744174985
+    },
+    {
+        "date": "Jul 10, 2012 00:00:00",
+        "closing_price_raw": 140.2,
+        "closing_price_normalized": 2.6414645744174985
+    },
+    {
+        "date": "Jul 11, 2012 00:00:00",
+        "closing_price_raw": 139.9,
+        "closing_price_normalized": 2.6300523062291967
+    },
+    {
+        "date": "Jul 12, 2012 00:00:00",
+        "closing_price_raw": 137,
+        "closing_price_normalized": 2.5197337137422733
+    },
+    {
+        "date": "Jul 13, 2012 00:00:00",
+        "closing_price_raw": 138,
+        "closing_price_normalized": 2.5577746077032812
+    },
+    {
+        "date": "Jul 16, 2012 00:00:00",
+        "closing_price_raw": 140,
+        "closing_price_normalized": 2.6338563956252976
+    },
+    {
+        "date": "Jul 17, 2012 00:00:00",
+        "closing_price_raw": 139.9,
+        "closing_price_normalized": 2.6300523062291967
+    },
+    {
+        "date": "Jul 18, 2012 00:00:00",
+        "closing_price_raw": 141,
+        "closing_price_normalized": 2.6718972895863056
+    },
+    {
+        "date": "Jul 19, 2012 00:00:00",
+        "closing_price_raw": 139,
+        "closing_price_normalized": 2.5958155016642896
+    },
+    {
+        "date": "Jul 20, 2012 00:00:00",
+        "closing_price_raw": 140,
+        "closing_price_normalized": 2.6338563956252976
+    },
+    {
+        "date": "Jul 23, 2012 00:00:00",
+        "closing_price_raw": 138,
+        "closing_price_normalized": 2.5577746077032812
+    },
+    {
+        "date": "Jul 24, 2012 00:00:00",
+        "closing_price_raw": 136.2,
+        "closing_price_normalized": 2.489300998573466
+    },
+    {
+        "date": "Jul 25, 2012 00:00:00",
+        "closing_price_raw": 137,
+        "closing_price_normalized": 2.5197337137422733
+    },
+    {
+        "date": "Jul 26, 2012 00:00:00",
+        "closing_price_raw": 136.7,
+        "closing_price_normalized": 2.50832144555397
+    },
+    {
+        "date": "Jul 27, 2012 00:00:00",
+        "closing_price_raw": 136,
+        "closing_price_normalized": 2.481692819781265
+    },
+    {
+        "date": "Jul 30, 2012 00:00:00",
+        "closing_price_raw": 137.3,
+        "closing_price_normalized": 2.531145981930576
+    },
+    {
+        "date": "Jul 31, 2012 00:00:00",
+        "closing_price_raw": 141.5,
+        "closing_price_normalized": 2.6909177365668095
+    },
+    {
+        "date": "Aug 01, 2012 00:00:00",
+        "closing_price_raw": 143.3,
+        "closing_price_normalized": 2.7593913456966246
+    },
+    {
+        "date": "Aug 02, 2012 00:00:00",
+        "closing_price_raw": 149.8,
+        "closing_price_normalized": 3.006657156443177
+    },
+    {
+        "date": "Aug 03, 2012 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Aug 06, 2012 00:00:00",
+        "closing_price_raw": 148,
+        "closing_price_normalized": 2.938183547313362
+    },
+    {
+        "date": "Aug 08, 2012 00:00:00",
+        "closing_price_raw": 149.2,
+        "closing_price_normalized": 2.9838326200665715
+    },
+    {
+        "date": "Aug 09, 2012 00:00:00",
+        "closing_price_raw": 143,
+        "closing_price_normalized": 2.7479790775083215
+    },
+    {
+        "date": "Aug 10, 2012 00:00:00",
+        "closing_price_raw": 146,
+        "closing_price_normalized": 2.8621017593913463
+    },
+    {
+        "date": "Aug 13, 2012 00:00:00",
+        "closing_price_raw": 147,
+        "closing_price_normalized": 2.900142653352354
+    },
+    {
+        "date": "Aug 14, 2012 00:00:00",
+        "closing_price_raw": 148,
+        "closing_price_normalized": 2.938183547313362
+    },
+    {
+        "date": "Aug 15, 2012 00:00:00",
+        "closing_price_raw": 151,
+        "closing_price_normalized": 3.0523062291963865
+    },
+    {
+        "date": "Aug 16, 2012 00:00:00",
+        "closing_price_raw": 149.9,
+        "closing_price_normalized": 3.0104612458392777
+    },
+    {
+        "date": "Aug 17, 2012 00:00:00",
+        "closing_price_raw": 148.5,
+        "closing_price_normalized": 2.957203994293866
+    },
+    {
+        "date": "Aug 22, 2012 00:00:00",
+        "closing_price_raw": 145.9,
+        "closing_price_normalized": 2.8582976699952454
+    },
+    {
+        "date": "Aug 23, 2012 00:00:00",
+        "closing_price_raw": 146.5,
+        "closing_price_normalized": 2.88112220637185
+    },
+    {
+        "date": "Aug 24, 2012 00:00:00",
+        "closing_price_raw": 146,
+        "closing_price_normalized": 2.8621017593913463
+    },
+    {
+        "date": "Aug 28, 2012 00:00:00",
+        "closing_price_raw": 145.1,
+        "closing_price_normalized": 2.8278649548264383
+    },
+    {
+        "date": "Aug 29, 2012 00:00:00",
+        "closing_price_raw": 147.5,
+        "closing_price_normalized": 2.919163100332858
+    },
+    {
+        "date": "Aug 30, 2012 00:00:00",
+        "closing_price_raw": 149.5,
+        "closing_price_normalized": 2.9952448882548746
+    },
+    {
+        "date": "Aug 31, 2012 00:00:00",
+        "closing_price_raw": 145,
+        "closing_price_normalized": 2.824060865430338
+    },
+    {
+        "date": "Sep 03, 2012 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Sep 04, 2012 00:00:00",
+        "closing_price_raw": 150.3,
+        "closing_price_normalized": 3.025677603423681
+    },
+    {
+        "date": "Sep 05, 2012 00:00:00",
+        "closing_price_raw": 150.5,
+        "closing_price_normalized": 3.0332857822158825
+    },
+    {
+        "date": "Sep 06, 2012 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Sep 07, 2012 00:00:00",
+        "closing_price_raw": 154,
+        "closing_price_normalized": 3.166428911079411
+    },
+    {
+        "date": "Sep 10, 2012 00:00:00",
+        "closing_price_raw": 158.8,
+        "closing_price_normalized": 3.3490252020922497
+    },
+    {
+        "date": "Sep 11, 2012 00:00:00",
+        "closing_price_raw": 158,
+        "closing_price_normalized": 3.318592486923443
+    },
+    {
+        "date": "Sep 12, 2012 00:00:00",
+        "closing_price_raw": 159.5,
+        "closing_price_normalized": 3.375653827864955
+    },
+    {
+        "date": "Sep 13, 2012 00:00:00",
+        "closing_price_raw": 159.8,
+        "closing_price_normalized": 3.387066096053258
+    },
+    {
+        "date": "Sep 14, 2012 00:00:00",
+        "closing_price_raw": 163.6,
+        "closing_price_normalized": 3.531621493105088
+    },
+    {
+        "date": "Sep 17, 2012 00:00:00",
+        "closing_price_raw": 162.7,
+        "closing_price_normalized": 3.4973846885401807
+    },
+    {
+        "date": "Sep 18, 2012 00:00:00",
+        "closing_price_raw": 159.5,
+        "closing_price_normalized": 3.375653827864955
+    },
+    {
+        "date": "Sep 19, 2012 00:00:00",
+        "closing_price_raw": 158.5,
+        "closing_price_normalized": 3.337612933903947
+    },
+    {
+        "date": "Sep 20, 2012 00:00:00",
+        "closing_price_raw": 158.4,
+        "closing_price_normalized": 3.3338088445078466
+    },
+    {
+        "date": "Sep 21, 2012 00:00:00",
+        "closing_price_raw": 158.3,
+        "closing_price_normalized": 3.3300047551117458
+    },
+    {
+        "date": "Sep 24, 2012 00:00:00",
+        "closing_price_raw": 160,
+        "closing_price_normalized": 3.394674274845459
+    },
+    {
+        "date": "Sep 25, 2012 00:00:00",
+        "closing_price_raw": 159.9,
+        "closing_price_normalized": 3.3908701854493586
+    },
+    {
+        "date": "Sep 26, 2012 00:00:00",
+        "closing_price_raw": 162.5,
+        "closing_price_normalized": 3.4897765097479794
+    },
+    {
+        "date": "Sep 27, 2012 00:00:00",
+        "closing_price_raw": 162.1,
+        "closing_price_normalized": 3.474560152163576
+    },
+    {
+        "date": "Sep 28, 2012 00:00:00",
+        "closing_price_raw": 164,
+        "closing_price_normalized": 3.5468378506894913
+    },
+    {
+        "date": "Oct 01, 2012 00:00:00",
+        "closing_price_raw": 166.7,
+        "closing_price_normalized": 3.649548264384213
+    },
+    {
+        "date": "Oct 02, 2012 00:00:00",
+        "closing_price_raw": 166.4,
+        "closing_price_normalized": 3.638135996195911
+    },
+    {
+        "date": "Oct 03, 2012 00:00:00",
+        "closing_price_raw": 168.9,
+        "closing_price_normalized": 3.7332382310984316
+    },
+    {
+        "date": "Oct 04, 2012 00:00:00",
+        "closing_price_raw": 165.6,
+        "closing_price_normalized": 3.607703281027104
+    },
+    {
+        "date": "Oct 05, 2012 00:00:00",
+        "closing_price_raw": 164.1,
+        "closing_price_normalized": 3.550641940085592
+    },
+    {
+        "date": "Oct 08, 2012 00:00:00",
+        "closing_price_raw": 162.9,
+        "closing_price_normalized": 3.504992867332383
+    },
+    {
+        "date": "Oct 09, 2012 00:00:00",
+        "closing_price_raw": 160,
+        "closing_price_normalized": 3.394674274845459
+    },
+    {
+        "date": "Oct 10, 2012 00:00:00",
+        "closing_price_raw": 164,
+        "closing_price_normalized": 3.5468378506894913
+    },
+    {
+        "date": "Oct 11, 2012 00:00:00",
+        "closing_price_raw": 164,
+        "closing_price_normalized": 3.5468378506894913
+    },
+    {
+        "date": "Oct 12, 2012 00:00:00",
+        "closing_price_raw": 162.4,
+        "closing_price_normalized": 3.485972420351879
+    },
+    {
+        "date": "Oct 15, 2012 00:00:00",
+        "closing_price_raw": 161.1,
+        "closing_price_normalized": 3.436519258202568
+    },
+    {
+        "date": "Oct 16, 2012 00:00:00",
+        "closing_price_raw": 164.5,
+        "closing_price_normalized": 3.5658582976699957
+    },
+    {
+        "date": "Oct 17, 2012 00:00:00",
+        "closing_price_raw": 166.7,
+        "closing_price_normalized": 3.649548264384213
+    },
+    {
+        "date": "Oct 18, 2012 00:00:00",
+        "closing_price_raw": 166.9,
+        "closing_price_normalized": 3.657156443176415
+    },
+    {
+        "date": "Oct 19, 2012 00:00:00",
+        "closing_price_raw": 166.9,
+        "closing_price_normalized": 3.657156443176415
+    },
+    {
+        "date": "Oct 22, 2012 00:00:00",
+        "closing_price_raw": 165.9,
+        "closing_price_normalized": 3.6191155492154072
+    },
+    {
+        "date": "Oct 23, 2012 00:00:00",
+        "closing_price_raw": 166.6,
+        "closing_price_normalized": 3.6457441749881125
+    },
+    {
+        "date": "Oct 24, 2012 00:00:00",
+        "closing_price_raw": 163.5,
+        "closing_price_normalized": 3.5278174037089873
+    },
+    {
+        "date": "Oct 25, 2012 00:00:00",
+        "closing_price_raw": 163.4,
+        "closing_price_normalized": 3.524013314312887
+    },
+    {
+        "date": "Oct 29, 2012 00:00:00",
+        "closing_price_raw": 161.9,
+        "closing_price_normalized": 3.466951973371375
+    },
+    {
+        "date": "Oct 30, 2012 00:00:00",
+        "closing_price_raw": 161,
+        "closing_price_normalized": 3.4327151688064674
+    },
+    {
+        "date": "Oct 31, 2012 00:00:00",
+        "closing_price_raw": 161.9,
+        "closing_price_normalized": 3.466951973371375
+    },
+    {
+        "date": "Nov 05, 2012 00:00:00",
+        "closing_price_raw": 165.4,
+        "closing_price_normalized": 3.6000951022349033
+    },
+    {
+        "date": "Nov 06, 2012 00:00:00",
+        "closing_price_raw": 166,
+        "closing_price_normalized": 3.6229196386115077
+    },
+    {
+        "date": "Nov 07, 2012 00:00:00",
+        "closing_price_raw": 166,
+        "closing_price_normalized": 3.6229196386115077
+    },
+    {
+        "date": "Nov 08, 2012 00:00:00",
+        "closing_price_raw": 161.8,
+        "closing_price_normalized": 3.463147883975274
+    },
+    {
+        "date": "Nov 09, 2012 00:00:00",
+        "closing_price_raw": 163,
+        "closing_price_normalized": 3.5087969567284834
+    },
+    {
+        "date": "Nov 12, 2012 00:00:00",
+        "closing_price_raw": 161.8,
+        "closing_price_normalized": 3.463147883975274
+    },
+    {
+        "date": "Nov 13, 2012 00:00:00",
+        "closing_price_raw": 162,
+        "closing_price_normalized": 3.4707560627674754
+    },
+    {
+        "date": "Nov 14, 2012 00:00:00",
+        "closing_price_raw": 161.9,
+        "closing_price_normalized": 3.466951973371375
+    },
+    {
+        "date": "Nov 15, 2012 00:00:00",
+        "closing_price_raw": 153.5,
+        "closing_price_normalized": 3.1474084640989064
+    },
+    {
+        "date": "Nov 16, 2012 00:00:00",
+        "closing_price_raw": 155.1,
+        "closing_price_normalized": 3.2082738944365192
+    },
+    {
+        "date": "Nov 19, 2012 00:00:00",
+        "closing_price_raw": 157,
+        "closing_price_normalized": 3.2805515929624347
+    },
+    {
+        "date": "Nov 20, 2012 00:00:00",
+        "closing_price_raw": 161,
+        "closing_price_normalized": 3.4327151688064674
+    },
+    {
+        "date": "Nov 21, 2012 00:00:00",
+        "closing_price_raw": 164,
+        "closing_price_normalized": 3.5468378506894913
+    },
+    {
+        "date": "Nov 22, 2012 00:00:00",
+        "closing_price_raw": 164,
+        "closing_price_normalized": 3.5468378506894913
+    },
+    {
+        "date": "Nov 23, 2012 00:00:00",
+        "closing_price_raw": 160.8,
+        "closing_price_normalized": 3.425106990014266
+    },
+    {
+        "date": "Nov 26, 2012 00:00:00",
+        "closing_price_raw": 162,
+        "closing_price_normalized": 3.4707560627674754
+    },
+    {
+        "date": "Nov 27, 2012 00:00:00",
+        "closing_price_raw": 163.6,
+        "closing_price_normalized": 3.531621493105088
+    },
+    {
+        "date": "Nov 28, 2012 00:00:00",
+        "closing_price_raw": 164,
+        "closing_price_normalized": 3.5468378506894913
+    },
+    {
+        "date": "Nov 29, 2012 00:00:00",
+        "closing_price_raw": 163.9,
+        "closing_price_normalized": 3.543033761293391
+    },
+    {
+        "date": "Dec 03, 2012 00:00:00",
+        "closing_price_raw": 165,
+        "closing_price_normalized": 3.5848787446504997
+    },
+    {
+        "date": "Dec 04, 2012 00:00:00",
+        "closing_price_raw": 164.7,
+        "closing_price_normalized": 3.5734664764621966
+    },
+    {
+        "date": "Dec 05, 2012 00:00:00",
+        "closing_price_raw": 162.5,
+        "closing_price_normalized": 3.4897765097479794
+    },
+    {
+        "date": "Dec 06, 2012 00:00:00",
+        "closing_price_raw": 163.4,
+        "closing_price_normalized": 3.524013314312887
+    },
+    {
+        "date": "Dec 07, 2012 00:00:00",
+        "closing_price_raw": 165.2,
+        "closing_price_normalized": 3.5924869234427006
+    },
+    {
+        "date": "Dec 10, 2012 00:00:00",
+        "closing_price_raw": 164.2,
+        "closing_price_normalized": 3.5544460294816926
+    },
+    {
+        "date": "Dec 11, 2012 00:00:00",
+        "closing_price_raw": 163.3,
+        "closing_price_normalized": 3.5202092249167865
+    },
+    {
+        "date": "Dec 12, 2012 00:00:00",
+        "closing_price_raw": 163.5,
+        "closing_price_normalized": 3.5278174037089873
+    },
+    {
+        "date": "Dec 13, 2012 00:00:00",
+        "closing_price_raw": 162.3,
+        "closing_price_normalized": 3.482168330955778
+    },
+    {
+        "date": "Dec 14, 2012 00:00:00",
+        "closing_price_raw": 161,
+        "closing_price_normalized": 3.4327151688064674
+    },
+    {
+        "date": "Dec 17, 2012 00:00:00",
+        "closing_price_raw": 162,
+        "closing_price_normalized": 3.4707560627674754
+    },
+    {
+        "date": "Dec 18, 2012 00:00:00",
+        "closing_price_raw": 162,
+        "closing_price_normalized": 3.4707560627674754
+    },
+    {
+        "date": "Dec 19, 2012 00:00:00",
+        "closing_price_raw": 162.2,
+        "closing_price_normalized": 3.4783642415596767
+    },
+    {
+        "date": "Dec 20, 2012 00:00:00",
+        "closing_price_raw": 161.5,
+        "closing_price_normalized": 3.4517356157869714
+    },
+    {
+        "date": "Dec 21, 2012 00:00:00",
+        "closing_price_raw": 160.5,
+        "closing_price_normalized": 3.413694721825963
+    },
+    {
+        "date": "Dec 26, 2012 00:00:00",
+        "closing_price_raw": 160.5,
+        "closing_price_normalized": 3.413694721825963
+    },
+    {
+        "date": "Dec 27, 2012 00:00:00",
+        "closing_price_raw": 160.1,
+        "closing_price_normalized": 3.39847836424156
+    },
+    {
+        "date": "Dec 28, 2012 00:00:00",
+        "closing_price_raw": 156,
+        "closing_price_normalized": 3.2425106990014267
+    },
+    {
+        "date": "Jan 02, 2013 00:00:00",
+        "closing_price_raw": 159.9,
+        "closing_price_normalized": 3.3908701854493586
+    },
+    {
+        "date": "Jan 03, 2013 00:00:00",
+        "closing_price_raw": 161.8,
+        "closing_price_normalized": 3.463147883975274
+    },
+    {
+        "date": "Jan 04, 2013 00:00:00",
+        "closing_price_raw": 160.9,
+        "closing_price_normalized": 3.4289110794103665
+    },
+    {
+        "date": "Jan 07, 2013 00:00:00",
+        "closing_price_raw": 160.7,
+        "closing_price_normalized": 3.4213029006181643
+    },
+    {
+        "date": "Jan 08, 2013 00:00:00",
+        "closing_price_raw": 160.7,
+        "closing_price_normalized": 3.4213029006181643
+    },
+    {
+        "date": "Jan 09, 2013 00:00:00",
+        "closing_price_raw": 161.1,
+        "closing_price_normalized": 3.436519258202568
+    },
+    {
+        "date": "Jan 10, 2013 00:00:00",
+        "closing_price_raw": 160.5,
+        "closing_price_normalized": 3.413694721825963
+    },
+    {
+        "date": "Jan 11, 2013 00:00:00",
+        "closing_price_raw": 162.4,
+        "closing_price_normalized": 3.485972420351879
+    },
+    {
+        "date": "Jan 14, 2013 00:00:00",
+        "closing_price_raw": 164,
+        "closing_price_normalized": 3.5468378506894913
+    },
+    {
+        "date": "Jan 15, 2013 00:00:00",
+        "closing_price_raw": 164.4,
+        "closing_price_normalized": 3.562054208273895
+    },
+    {
+        "date": "Jan 16, 2013 00:00:00",
+        "closing_price_raw": 164.5,
+        "closing_price_normalized": 3.5658582976699957
+    },
+    {
+        "date": "Jan 17, 2013 00:00:00",
+        "closing_price_raw": 165.4,
+        "closing_price_normalized": 3.6000951022349033
+    },
+    {
+        "date": "Jan 18, 2013 00:00:00",
+        "closing_price_raw": 166,
+        "closing_price_normalized": 3.6229196386115077
+    },
+    {
+        "date": "Jan 21, 2013 00:00:00",
+        "closing_price_raw": 166.5,
+        "closing_price_normalized": 3.6419400855920117
+    },
+    {
+        "date": "Jan 22, 2013 00:00:00",
+        "closing_price_raw": 165.6,
+        "closing_price_normalized": 3.607703281027104
+    },
+    {
+        "date": "Jan 23, 2013 00:00:00",
+        "closing_price_raw": 167.8,
+        "closing_price_normalized": 3.6913932477413227
+    },
+    {
+        "date": "Jan 24, 2013 00:00:00",
+        "closing_price_raw": 170.5,
+        "closing_price_normalized": 3.794103661436044
+    },
+    {
+        "date": "Jan 25, 2013 00:00:00",
+        "closing_price_raw": 175.6,
+        "closing_price_normalized": 3.988112220637185
+    },
+    {
+        "date": "Jan 28, 2013 00:00:00",
+        "closing_price_raw": 176.8,
+        "closing_price_normalized": 4.033761293390395
+    },
+    {
+        "date": "Jan 29, 2013 00:00:00",
+        "closing_price_raw": 176.6,
+        "closing_price_normalized": 4.026153114598193
+    },
+    {
+        "date": "Jan 30, 2013 00:00:00",
+        "closing_price_raw": 175.3,
+        "closing_price_normalized": 3.9766999524488833
+    },
+    {
+        "date": "Jan 31, 2013 00:00:00",
+        "closing_price_raw": 173.7,
+        "closing_price_normalized": 3.9158345221112696
+    },
+    {
+        "date": "Feb 01, 2013 00:00:00",
+        "closing_price_raw": 171.4,
+        "closing_price_normalized": 3.8283404660009515
+    },
+    {
+        "date": "Feb 04, 2013 00:00:00",
+        "closing_price_raw": 176,
+        "closing_price_normalized": 4.003328578221589
+    },
+    {
+        "date": "Feb 05, 2013 00:00:00",
+        "closing_price_raw": 174.4,
+        "closing_price_normalized": 3.942463147883976
+    },
+    {
+        "date": "Feb 06, 2013 00:00:00",
+        "closing_price_raw": 174.3,
+        "closing_price_normalized": 3.9386590584878753
+    },
+    {
+        "date": "Feb 07, 2013 00:00:00",
+        "closing_price_raw": 174.6,
+        "closing_price_normalized": 3.950071326676177
+    },
+    {
+        "date": "Feb 08, 2013 00:00:00",
+        "closing_price_raw": 174.4,
+        "closing_price_normalized": 3.942463147883976
+    },
+    {
+        "date": "Feb 11, 2013 00:00:00",
+        "closing_price_raw": 173.8,
+        "closing_price_normalized": 3.9196386115073714
+    },
+    {
+        "date": "Feb 12, 2013 00:00:00",
+        "closing_price_raw": 174,
+        "closing_price_normalized": 3.9272467902995722
+    },
+    {
+        "date": "Feb 13, 2013 00:00:00",
+        "closing_price_raw": 175,
+        "closing_price_normalized": 3.9652876842605806
+    },
+    {
+        "date": "Feb 14, 2013 00:00:00",
+        "closing_price_raw": 172.2,
+        "closing_price_normalized": 3.858773181169757
+    },
+    {
+        "date": "Feb 15, 2013 00:00:00",
+        "closing_price_raw": 173.9,
+        "closing_price_normalized": 3.923442700903472
+    },
+    {
+        "date": "Feb 18, 2013 00:00:00",
+        "closing_price_raw": 173.5,
+        "closing_price_normalized": 3.9082263433190683
+    },
+    {
+        "date": "Feb 19, 2013 00:00:00",
+        "closing_price_raw": 173,
+        "closing_price_normalized": 3.8892058963385643
+    },
+    {
+        "date": "Feb 20, 2013 00:00:00",
+        "closing_price_raw": 172.8,
+        "closing_price_normalized": 3.881597717546363
+    },
+    {
+        "date": "Feb 21, 2013 00:00:00",
+        "closing_price_raw": 172.4,
+        "closing_price_normalized": 3.86638135996196
+    },
+    {
+        "date": "Feb 22, 2013 00:00:00",
+        "closing_price_raw": 173,
+        "closing_price_normalized": 3.8892058963385643
+    },
+    {
+        "date": "Feb 25, 2013 00:00:00",
+        "closing_price_raw": 176.9,
+        "closing_price_normalized": 4.037565382786497
+    },
+    {
+        "date": "Feb 26, 2013 00:00:00",
+        "closing_price_raw": 179.2,
+        "closing_price_normalized": 4.125059438896814
+    },
+    {
+        "date": "Feb 27, 2013 00:00:00",
+        "closing_price_raw": 179.8,
+        "closing_price_normalized": 4.14788397527342
+    },
+    {
+        "date": "Feb 28, 2013 00:00:00",
+        "closing_price_raw": 176.7,
+        "closing_price_normalized": 4.029957203994294
+    },
+    {
+        "date": "Mar 01, 2013 00:00:00",
+        "closing_price_raw": 185,
+        "closing_price_normalized": 4.345696623870661
+    },
+    {
+        "date": "Mar 04, 2013 00:00:00",
+        "closing_price_raw": 185.2,
+        "closing_price_normalized": 4.353304802662862
+    },
+    {
+        "date": "Mar 05, 2013 00:00:00",
+        "closing_price_raw": 184,
+        "closing_price_normalized": 4.307655729909653
+    },
+    {
+        "date": "Mar 06, 2013 00:00:00",
+        "closing_price_raw": 184,
+        "closing_price_normalized": 4.307655729909653
+    },
+    {
+        "date": "Mar 07, 2013 00:00:00",
+        "closing_price_raw": 184.5,
+        "closing_price_normalized": 4.326676176890157
+    },
+    {
+        "date": "Mar 08, 2013 00:00:00",
+        "closing_price_raw": 185,
+        "closing_price_normalized": 4.345696623870661
+    },
+    {
+        "date": "Mar 11, 2013 00:00:00",
+        "closing_price_raw": 184.1,
+        "closing_price_normalized": 4.311459819305754
+    },
+    {
+        "date": "Mar 12, 2013 00:00:00",
+        "closing_price_raw": 184.3,
+        "closing_price_normalized": 4.319067998097957
+    },
+    {
+        "date": "Mar 13, 2013 00:00:00",
+        "closing_price_raw": 183.5,
+        "closing_price_normalized": 4.28863528292915
+    },
+    {
+        "date": "Mar 14, 2013 00:00:00",
+        "closing_price_raw": 183,
+        "closing_price_normalized": 4.269614835948645
+    },
+    {
+        "date": "Mar 15, 2013 00:00:00",
+        "closing_price_raw": 186,
+        "closing_price_normalized": 4.383737517831669
+    },
+    {
+        "date": "Mar 18, 2013 00:00:00",
+        "closing_price_raw": 181.5,
+        "closing_price_normalized": 4.212553495007133
+    },
+    {
+        "date": "Mar 19, 2013 00:00:00",
+        "closing_price_raw": 180.5,
+        "closing_price_normalized": 4.174512601046125
+    },
+    {
+        "date": "Mar 20, 2013 00:00:00",
+        "closing_price_raw": 177,
+        "closing_price_normalized": 4.041369472182597
+    },
+    {
+        "date": "Mar 21, 2013 00:00:00",
+        "closing_price_raw": 179.3,
+        "closing_price_normalized": 4.128863528292916
+    },
+    {
+        "date": "Mar 22, 2013 00:00:00",
+        "closing_price_raw": 179.2,
+        "closing_price_normalized": 4.125059438896814
+    },
+    {
+        "date": "Mar 25, 2013 00:00:00",
+        "closing_price_raw": 182,
+        "closing_price_normalized": 4.231573941987637
+    },
+    {
+        "date": "Mar 26, 2013 00:00:00",
+        "closing_price_raw": 180.4,
+        "closing_price_normalized": 4.170708511650025
+    },
+    {
+        "date": "Mar 27, 2013 00:00:00",
+        "closing_price_raw": 182,
+        "closing_price_normalized": 4.231573941987637
+    },
+    {
+        "date": "Apr 01, 2013 00:00:00",
+        "closing_price_raw": 184.6,
+        "closing_price_normalized": 4.3304802662862585
+    },
+    {
+        "date": "Apr 02, 2013 00:00:00",
+        "closing_price_raw": 186,
+        "closing_price_normalized": 4.383737517831669
+    },
+    {
+        "date": "Apr 03, 2013 00:00:00",
+        "closing_price_raw": 186.5,
+        "closing_price_normalized": 4.4027579648121735
+    },
+    {
+        "date": "Apr 04, 2013 00:00:00",
+        "closing_price_raw": 184.7,
+        "closing_price_normalized": 4.3342843556823585
+    },
+    {
+        "date": "Apr 05, 2013 00:00:00",
+        "closing_price_raw": 184.9,
+        "closing_price_normalized": 4.34189253447456
+    },
+    {
+        "date": "Apr 08, 2013 00:00:00",
+        "closing_price_raw": 185.2,
+        "closing_price_normalized": 4.353304802662862
+    },
+    {
+        "date": "Apr 10, 2013 00:00:00",
+        "closing_price_raw": 187.1,
+        "closing_price_normalized": 4.425582501188778
+    },
+    {
+        "date": "Apr 11, 2013 00:00:00",
+        "closing_price_raw": 190,
+        "closing_price_normalized": 4.535901093675702
+    },
+    {
+        "date": "Apr 12, 2013 00:00:00",
+        "closing_price_raw": 192,
+        "closing_price_normalized": 4.611982881597718
+    },
+    {
+        "date": "Apr 15, 2013 00:00:00",
+        "closing_price_raw": 194.5,
+        "closing_price_normalized": 4.707085116500238
+    },
+    {
+        "date": "Apr 16, 2013 00:00:00",
+        "closing_price_raw": 191,
+        "closing_price_normalized": 4.57394198763671
+    },
+    {
+        "date": "Apr 17, 2013 00:00:00",
+        "closing_price_raw": 190.2,
+        "closing_price_normalized": 4.543509272467903
+    },
+    {
+        "date": "Apr 18, 2013 00:00:00",
+        "closing_price_raw": 187.5,
+        "closing_price_normalized": 4.4407988587731815
+    },
+    {
+        "date": "Apr 19, 2013 00:00:00",
+        "closing_price_raw": 188,
+        "closing_price_normalized": 4.459819305753685
+    },
+    {
+        "date": "Apr 22, 2013 00:00:00",
+        "closing_price_raw": 199.3,
+        "closing_price_normalized": 4.889681407513077
+    },
+    {
+        "date": "Apr 23, 2013 00:00:00",
+        "closing_price_raw": 193,
+        "closing_price_normalized": 4.650023775558726
+    },
+    {
+        "date": "Apr 24, 2013 00:00:00",
+        "closing_price_raw": 193.4,
+        "closing_price_normalized": 4.665240133143129
+    },
+    {
+        "date": "Apr 25, 2013 00:00:00",
+        "closing_price_raw": 193.5,
+        "closing_price_normalized": 4.66904422253923
+    },
+    {
+        "date": "Apr 26, 2013 00:00:00",
+        "closing_price_raw": 195.7,
+        "closing_price_normalized": 4.752734189253447
+    },
+    {
+        "date": "Apr 29, 2013 00:00:00",
+        "closing_price_raw": 199,
+        "closing_price_normalized": 4.878269139324774
+    },
+    {
+        "date": "Apr 30, 2013 00:00:00",
+        "closing_price_raw": 197.2,
+        "closing_price_normalized": 4.809795530194959
+    },
+    {
+        "date": "May 02, 2013 00:00:00",
+        "closing_price_raw": 197.7,
+        "closing_price_normalized": 4.828815977175464
+    },
+    {
+        "date": "May 03, 2013 00:00:00",
+        "closing_price_raw": 202.2,
+        "closing_price_normalized": 5
+    },
+    {
+        "date": "May 06, 2013 00:00:00",
+        "closing_price_raw": 197,
+        "closing_price_normalized": 4.802187351402758
+    },
+    {
+        "date": "May 07, 2013 00:00:00",
+        "closing_price_raw": 196.7,
+        "closing_price_normalized": 4.790775083214456
+    },
+    {
+        "date": "May 08, 2013 00:00:00",
+        "closing_price_raw": 195,
+        "closing_price_normalized": 4.726105563480742
+    },
+    {
+        "date": "May 09, 2013 00:00:00",
+        "closing_price_raw": 195,
+        "closing_price_normalized": 4.726105563480742
+    },
+    {
+        "date": "May 10, 2013 00:00:00",
+        "closing_price_raw": 200.8,
+        "closing_price_normalized": 4.946742748454589
+    },
+    {
+        "date": "May 14, 2013 00:00:00",
+        "closing_price_raw": 194.6,
+        "closing_price_normalized": 4.710889205896339
+    },
+    {
+        "date": "May 15, 2013 00:00:00",
+        "closing_price_raw": 194.7,
+        "closing_price_normalized": 4.71469329529244
+    },
+    {
+        "date": "May 16, 2013 00:00:00",
+        "closing_price_raw": 190.8,
+        "closing_price_normalized": 4.566333808844508
+    },
+    {
+        "date": "May 17, 2013 00:00:00",
+        "closing_price_raw": 181,
+        "closing_price_normalized": 4.193533048026628
+    },
+    {
+        "date": "May 20, 2013 00:00:00",
+        "closing_price_raw": 184.5,
+        "closing_price_normalized": 4.326676176890157
+    },
+    {
+        "date": "May 21, 2013 00:00:00",
+        "closing_price_raw": 184.5,
+        "closing_price_normalized": 4.326676176890157
+    },
+    {
+        "date": "May 22, 2013 00:00:00",
+        "closing_price_raw": 187,
+        "closing_price_normalized": 4.421778411792678
+    },
+    {
+        "date": "May 23, 2013 00:00:00",
+        "closing_price_raw": 182.2,
+        "closing_price_normalized": 4.239182120779838
+    },
+    {
+        "date": "May 24, 2013 00:00:00",
+        "closing_price_raw": 184.6,
+        "closing_price_normalized": 4.3304802662862585
+    },
+    {
+        "date": "May 27, 2013 00:00:00",
+        "closing_price_raw": 183.5,
+        "closing_price_normalized": 4.28863528292915
+    },
+    {
+        "date": "May 28, 2013 00:00:00",
+        "closing_price_raw": 184,
+        "closing_price_normalized": 4.307655729909653
+    },
+    {
+        "date": "May 29, 2013 00:00:00",
+        "closing_price_raw": 184,
+        "closing_price_normalized": 4.307655729909653
+    },
+    {
+        "date": "May 30, 2013 00:00:00",
+        "closing_price_raw": 179.5,
+        "closing_price_normalized": 4.136471707085117
+    },
+    {
+        "date": "May 31, 2013 00:00:00",
+        "closing_price_raw": 173,
+        "closing_price_normalized": 3.8892058963385643
+    },
+    {
+        "date": "Jun 03, 2013 00:00:00",
+        "closing_price_raw": 171.5,
+        "closing_price_normalized": 3.8321445553970523
+    },
+    {
+        "date": "Jun 04, 2013 00:00:00",
+        "closing_price_raw": 172.1,
+        "closing_price_normalized": 3.8549690917736568
+    },
+    {
+        "date": "Jun 05, 2013 00:00:00",
+        "closing_price_raw": 160,
+        "closing_price_normalized": 3.394674274845459
+    },
+    {
+        "date": "Jun 06, 2013 00:00:00",
+        "closing_price_raw": 167,
+        "closing_price_normalized": 3.6609605325725156
+    },
+    {
+        "date": "Jun 07, 2013 00:00:00",
+        "closing_price_raw": 174.5,
+        "closing_price_normalized": 3.9462672372800762
+    },
+    {
+        "date": "Jun 10, 2013 00:00:00",
+        "closing_price_raw": 179,
+        "closing_price_normalized": 4.1174512601046125
+    },
+    {
+        "date": "Jun 11, 2013 00:00:00",
+        "closing_price_raw": 175.8,
+        "closing_price_normalized": 3.9957203994293873
+    },
+    {
+        "date": "Jun 13, 2013 00:00:00",
+        "closing_price_raw": 173,
+        "closing_price_normalized": 3.8892058963385643
+    },
+    {
+        "date": "Jun 14, 2013 00:00:00",
+        "closing_price_raw": 168,
+        "closing_price_normalized": 3.699001426533524
+    },
+    {
+        "date": "Jun 17, 2013 00:00:00",
+        "closing_price_raw": 170.5,
+        "closing_price_normalized": 3.794103661436044
+    },
+    {
+        "date": "Jun 18, 2013 00:00:00",
+        "closing_price_raw": 174.9,
+        "closing_price_normalized": 3.9614835948644798
+    },
+    {
+        "date": "Jun 19, 2013 00:00:00",
+        "closing_price_raw": 172,
+        "closing_price_normalized": 3.8511650023775563
+    },
+    {
+        "date": "Jun 20, 2013 00:00:00",
+        "closing_price_raw": 163,
+        "closing_price_normalized": 3.5087969567284834
+    },
+    {
+        "date": "Jun 21, 2013 00:00:00",
+        "closing_price_raw": 154,
+        "closing_price_normalized": 3.166428911079411
+    },
+    {
+        "date": "Jun 24, 2013 00:00:00",
+        "closing_price_raw": 141,
+        "closing_price_normalized": 2.6718972895863056
+    },
+    {
+        "date": "Jun 25, 2013 00:00:00",
+        "closing_price_raw": 140,
+        "closing_price_normalized": 2.6338563956252976
+    },
+    {
+        "date": "Jun 26, 2013 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Jun 27, 2013 00:00:00",
+        "closing_price_raw": 159,
+        "closing_price_normalized": 3.356633380884451
+    },
+    {
+        "date": "Jun 28, 2013 00:00:00",
+        "closing_price_raw": 151.2,
+        "closing_price_normalized": 3.0599144079885874
+    },
+    {
+        "date": "Jul 01, 2013 00:00:00",
+        "closing_price_raw": 159.2,
+        "closing_price_normalized": 3.3642415596766524
+    },
+    {
+        "date": "Jul 02, 2013 00:00:00",
+        "closing_price_raw": 160,
+        "closing_price_normalized": 3.394674274845459
+    },
+    {
+        "date": "Jul 03, 2013 00:00:00",
+        "closing_price_raw": 160.9,
+        "closing_price_normalized": 3.4289110794103665
+    },
+    {
+        "date": "Jul 04, 2013 00:00:00",
+        "closing_price_raw": 160.6,
+        "closing_price_normalized": 3.417498811222064
+    },
+    {
+        "date": "Jul 05, 2013 00:00:00",
+        "closing_price_raw": 162.2,
+        "closing_price_normalized": 3.4783642415596767
+    },
+    {
+        "date": "Jul 08, 2013 00:00:00",
+        "closing_price_raw": 160,
+        "closing_price_normalized": 3.394674274845459
+    },
+    {
+        "date": "Jul 09, 2013 00:00:00",
+        "closing_price_raw": 156,
+        "closing_price_normalized": 3.2425106990014267
+    },
+    {
+        "date": "Jul 10, 2013 00:00:00",
+        "closing_price_raw": 147,
+        "closing_price_normalized": 2.900142653352354
+    },
+    {
+        "date": "Jul 11, 2013 00:00:00",
+        "closing_price_raw": 147.5,
+        "closing_price_normalized": 2.919163100332858
+    },
+    {
+        "date": "Jul 12, 2013 00:00:00",
+        "closing_price_raw": 148,
+        "closing_price_normalized": 2.938183547313362
+    },
+    {
+        "date": "Jul 15, 2013 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Jul 16, 2013 00:00:00",
+        "closing_price_raw": 149.2,
+        "closing_price_normalized": 2.9838326200665715
+    },
+    {
+        "date": "Jul 17, 2013 00:00:00",
+        "closing_price_raw": 145.5,
+        "closing_price_normalized": 2.843081312410842
+    },
+    {
+        "date": "Jul 18, 2013 00:00:00",
+        "closing_price_raw": 145.7,
+        "closing_price_normalized": 2.850689491203043
+    },
+    {
+        "date": "Jul 19, 2013 00:00:00",
+        "closing_price_raw": 146.5,
+        "closing_price_normalized": 2.88112220637185
+    },
+    {
+        "date": "Jul 22, 2013 00:00:00",
+        "closing_price_raw": 143,
+        "closing_price_normalized": 2.7479790775083215
+    },
+    {
+        "date": "Jul 23, 2013 00:00:00",
+        "closing_price_raw": 139.3,
+        "closing_price_normalized": 2.6072277698525923
+    },
+    {
+        "date": "Jul 24, 2013 00:00:00",
+        "closing_price_raw": 146,
+        "closing_price_normalized": 2.8621017593913463
+    },
+    {
+        "date": "Jul 25, 2013 00:00:00",
+        "closing_price_raw": 146.9,
+        "closing_price_normalized": 2.8963385639562533
+    },
+    {
+        "date": "Jul 26, 2013 00:00:00",
+        "closing_price_raw": 146.7,
+        "closing_price_normalized": 2.888730385164051
+    },
+    {
+        "date": "Jul 29, 2013 00:00:00",
+        "closing_price_raw": 143.6,
+        "closing_price_normalized": 2.7708036138849264
+    },
+    {
+        "date": "Jul 30, 2013 00:00:00",
+        "closing_price_raw": 142.9,
+        "closing_price_normalized": 2.744174988112221
+    },
+    {
+        "date": "Jul 31, 2013 00:00:00",
+        "closing_price_raw": 144,
+        "closing_price_normalized": 2.78601997146933
+    },
+    {
+        "date": "Aug 01, 2013 00:00:00",
+        "closing_price_raw": 144.2,
+        "closing_price_normalized": 2.793628150261531
+    },
+    {
+        "date": "Aug 02, 2013 00:00:00",
+        "closing_price_raw": 145.6,
+        "closing_price_normalized": 2.8468854018069427
+    },
+    {
+        "date": "Aug 05, 2013 00:00:00",
+        "closing_price_raw": 144,
+        "closing_price_normalized": 2.78601997146933
+    },
+    {
+        "date": "Aug 06, 2013 00:00:00",
+        "closing_price_raw": 141.7,
+        "closing_price_normalized": 2.698525915359011
+    },
+    {
+        "date": "Aug 07, 2013 00:00:00",
+        "closing_price_raw": 141.9,
+        "closing_price_normalized": 2.706134094151213
+    },
+    {
+        "date": "Aug 08, 2013 00:00:00",
+        "closing_price_raw": 141.9,
+        "closing_price_normalized": 2.706134094151213
+    },
+    {
+        "date": "Aug 12, 2013 00:00:00",
+        "closing_price_raw": 136,
+        "closing_price_normalized": 2.481692819781265
+    },
+    {
+        "date": "Aug 13, 2013 00:00:00",
+        "closing_price_raw": 132.5,
+        "closing_price_normalized": 2.3485496909177366
+    },
+    {
+        "date": "Aug 14, 2013 00:00:00",
+        "closing_price_raw": 133.5,
+        "closing_price_normalized": 2.386590584878745
+    },
+    {
+        "date": "Aug 15, 2013 00:00:00",
+        "closing_price_raw": 132.8,
+        "closing_price_normalized": 2.3599619591060397
+    },
+    {
+        "date": "Aug 16, 2013 00:00:00",
+        "closing_price_raw": 134.5,
+        "closing_price_normalized": 2.424631478839753
+    },
+    {
+        "date": "Aug 22, 2013 00:00:00",
+        "closing_price_raw": 120,
+        "closing_price_normalized": 1.8730385164051357
+    },
+    {
+        "date": "Aug 23, 2013 00:00:00",
+        "closing_price_raw": 118,
+        "closing_price_normalized": 1.7969567284831194
+    },
+    {
+        "date": "Aug 27, 2013 00:00:00",
+        "closing_price_raw": 116,
+        "closing_price_normalized": 1.7208749405611035
+    },
+    {
+        "date": "Aug 28, 2013 00:00:00",
+        "closing_price_raw": 105.7,
+        "closing_price_normalized": 1.32905373276272
+    },
+    {
+        "date": "Aug 29, 2013 00:00:00",
+        "closing_price_raw": 110.5,
+        "closing_price_normalized": 1.5116500237755588
+    },
+    {
+        "date": "Aug 30, 2013 00:00:00",
+        "closing_price_raw": 117.5,
+        "closing_price_normalized": 1.7779362815026154
+    },
+    {
+        "date": "Sep 02, 2013 00:00:00",
+        "closing_price_raw": 119,
+        "closing_price_normalized": 1.8349976224441276
+    },
+    {
+        "date": "Sep 03, 2013 00:00:00",
+        "closing_price_raw": 119.6,
+        "closing_price_normalized": 1.8578221588207322
+    },
+    {
+        "date": "Sep 04, 2013 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Sep 05, 2013 00:00:00",
+        "closing_price_raw": 115.1,
+        "closing_price_normalized": 1.686638135996196
+    },
+    {
+        "date": "Sep 06, 2013 00:00:00",
+        "closing_price_raw": 115.7,
+        "closing_price_normalized": 1.709462672372801
+    },
+    {
+        "date": "Sep 09, 2013 00:00:00",
+        "closing_price_raw": 116.6,
+        "closing_price_normalized": 1.7436994769377079
+    },
+    {
+        "date": "Sep 10, 2013 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Sep 11, 2013 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Sep 12, 2013 00:00:00",
+        "closing_price_raw": 115.8,
+        "closing_price_normalized": 1.7132667617689017
+    },
+    {
+        "date": "Sep 13, 2013 00:00:00",
+        "closing_price_raw": 116.7,
+        "closing_price_normalized": 1.7475035663338092
+    },
+    {
+        "date": "Sep 16, 2013 00:00:00",
+        "closing_price_raw": 118.5,
+        "closing_price_normalized": 1.8159771754636236
+    },
+    {
+        "date": "Sep 17, 2013 00:00:00",
+        "closing_price_raw": 122.7,
+        "closing_price_normalized": 1.9757489300998576
+    },
+    {
+        "date": "Sep 18, 2013 00:00:00",
+        "closing_price_raw": 126.3,
+        "closing_price_normalized": 2.1126961483594866
+    },
+    {
+        "date": "Sep 19, 2013 00:00:00",
+        "closing_price_raw": 134.6,
+        "closing_price_normalized": 2.4284355682358534
+    },
+    {
+        "date": "Sep 20, 2013 00:00:00",
+        "closing_price_raw": 133.5,
+        "closing_price_normalized": 2.386590584878745
+    },
+    {
+        "date": "Sep 23, 2013 00:00:00",
+        "closing_price_raw": 132.5,
+        "closing_price_normalized": 2.3485496909177366
+    },
+    {
+        "date": "Sep 24, 2013 00:00:00",
+        "closing_price_raw": 132.5,
+        "closing_price_normalized": 2.3485496909177366
+    },
+    {
+        "date": "Sep 25, 2013 00:00:00",
+        "closing_price_raw": 131.5,
+        "closing_price_normalized": 2.3105087969567286
+    },
+    {
+        "date": "Sep 26, 2013 00:00:00",
+        "closing_price_raw": 128,
+        "closing_price_normalized": 2.1773656680932003
+    },
+    {
+        "date": "Sep 27, 2013 00:00:00",
+        "closing_price_raw": 134.5,
+        "closing_price_normalized": 2.424631478839753
+    },
+    {
+        "date": "Sep 30, 2013 00:00:00",
+        "closing_price_raw": 131.1,
+        "closing_price_normalized": 2.295292439372325
+    },
+    {
+        "date": "Oct 01, 2013 00:00:00",
+        "closing_price_raw": 133.6,
+        "closing_price_normalized": 2.3903946742748454
+    },
+    {
+        "date": "Oct 02, 2013 00:00:00",
+        "closing_price_raw": 138.6,
+        "closing_price_normalized": 2.580599144079886
+    },
+    {
+        "date": "Oct 03, 2013 00:00:00",
+        "closing_price_raw": 139,
+        "closing_price_normalized": 2.5958155016642896
+    },
+    {
+        "date": "Oct 04, 2013 00:00:00",
+        "closing_price_raw": 139,
+        "closing_price_normalized": 2.5958155016642896
+    },
+    {
+        "date": "Oct 07, 2013 00:00:00",
+        "closing_price_raw": 140,
+        "closing_price_normalized": 2.6338563956252976
+    },
+    {
+        "date": "Oct 08, 2013 00:00:00",
+        "closing_price_raw": 140.5,
+        "closing_price_normalized": 2.6528768426058016
+    },
+    {
+        "date": "Oct 09, 2013 00:00:00",
+        "closing_price_raw": 137.3,
+        "closing_price_normalized": 2.531145981930576
+    },
+    {
+        "date": "Oct 10, 2013 00:00:00",
+        "closing_price_raw": 134.2,
+        "closing_price_normalized": 2.41321921065145
+    },
+    {
+        "date": "Oct 11, 2013 00:00:00",
+        "closing_price_raw": 136.6,
+        "closing_price_normalized": 2.5045173561578697
+    },
+    {
+        "date": "Oct 14, 2013 00:00:00",
+        "closing_price_raw": 137.5,
+        "closing_price_normalized": 2.5387541607227773
+    },
+    {
+        "date": "Oct 16, 2013 00:00:00",
+        "closing_price_raw": 137,
+        "closing_price_normalized": 2.5197337137422733
+    },
+    {
+        "date": "Oct 17, 2013 00:00:00",
+        "closing_price_raw": 135.4,
+        "closing_price_normalized": 2.4588682834046605
+    },
+    {
+        "date": "Oct 18, 2013 00:00:00",
+        "closing_price_raw": 136,
+        "closing_price_normalized": 2.481692819781265
+    },
+    {
+        "date": "Oct 21, 2013 00:00:00",
+        "closing_price_raw": 138.6,
+        "closing_price_normalized": 2.580599144079886
+    },
+    {
+        "date": "Oct 22, 2013 00:00:00",
+        "closing_price_raw": 141,
+        "closing_price_normalized": 2.6718972895863056
+    },
+    {
+        "date": "Oct 23, 2013 00:00:00",
+        "closing_price_raw": 142,
+        "closing_price_normalized": 2.7099381835473135
+    },
+    {
+        "date": "Oct 24, 2013 00:00:00",
+        "closing_price_raw": 139,
+        "closing_price_normalized": 2.5958155016642896
+    },
+    {
+        "date": "Oct 25, 2013 00:00:00",
+        "closing_price_raw": 138.5,
+        "closing_price_normalized": 2.5767950546837852
+    },
+    {
+        "date": "Oct 29, 2013 00:00:00",
+        "closing_price_raw": 138.5,
+        "closing_price_normalized": 2.5767950546837852
+    },
+    {
+        "date": "Oct 30, 2013 00:00:00",
+        "closing_price_raw": 138.7,
+        "closing_price_normalized": 2.5844032334759865
+    },
+    {
+        "date": "Oct 31, 2013 00:00:00",
+        "closing_price_raw": 139,
+        "closing_price_normalized": 2.5958155016642896
+    },
+    {
+        "date": "Nov 04, 2013 00:00:00",
+        "closing_price_raw": 134.9,
+        "closing_price_normalized": 2.4398478364241565
+    },
+    {
+        "date": "Nov 05, 2013 00:00:00",
+        "closing_price_raw": 134.9,
+        "closing_price_normalized": 2.4398478364241565
+    },
+    {
+        "date": "Nov 06, 2013 00:00:00",
+        "closing_price_raw": 134.3,
+        "closing_price_normalized": 2.4170233000475516
+    },
+    {
+        "date": "Nov 07, 2013 00:00:00",
+        "closing_price_raw": 134.7,
+        "closing_price_normalized": 2.4322396576319543
+    },
+    {
+        "date": "Nov 08, 2013 00:00:00",
+        "closing_price_raw": 134.1,
+        "closing_price_normalized": 2.4094151212553494
+    },
+    {
+        "date": "Nov 11, 2013 00:00:00",
+        "closing_price_raw": 135,
+        "closing_price_normalized": 2.443651925820257
+    },
+    {
+        "date": "Nov 12, 2013 00:00:00",
+        "closing_price_raw": 135.8,
+        "closing_price_normalized": 2.474084640989064
+    },
+    {
+        "date": "Nov 13, 2013 00:00:00",
+        "closing_price_raw": 137.2,
+        "closing_price_normalized": 2.5273418925344746
+    },
+    {
+        "date": "Nov 14, 2013 00:00:00",
+        "closing_price_raw": 139.9,
+        "closing_price_normalized": 2.6300523062291967
+    },
+    {
+        "date": "Nov 15, 2013 00:00:00",
+        "closing_price_raw": 142.1,
+        "closing_price_normalized": 2.7137422729434144
+    },
+    {
+        "date": "Nov 18, 2013 00:00:00",
+        "closing_price_raw": 140.9,
+        "closing_price_normalized": 2.6680932001902047
+    },
+    {
+        "date": "Nov 19, 2013 00:00:00",
+        "closing_price_raw": 139.5,
+        "closing_price_normalized": 2.614835948644793
+    },
+    {
+        "date": "Nov 20, 2013 00:00:00",
+        "closing_price_raw": 133.5,
+        "closing_price_normalized": 2.386590584878745
+    },
+    {
+        "date": "Nov 21, 2013 00:00:00",
+        "closing_price_raw": 127.5,
+        "closing_price_normalized": 2.1583452211126963
+    },
+    {
+        "date": "Nov 22, 2013 00:00:00",
+        "closing_price_raw": 126,
+        "closing_price_normalized": 2.1012838801711844
+    },
+    {
+        "date": "Nov 25, 2013 00:00:00",
+        "closing_price_raw": 126.7,
+        "closing_price_normalized": 2.1279125059438897
+    },
+    {
+        "date": "Nov 26, 2013 00:00:00",
+        "closing_price_raw": 134.5,
+        "closing_price_normalized": 2.424631478839753
+    },
+    {
+        "date": "Nov 27, 2013 00:00:00",
+        "closing_price_raw": 114.8,
+        "closing_price_normalized": 1.6752258678078935
+    },
+    {
+        "date": "Nov 28, 2013 00:00:00",
+        "closing_price_raw": 115.1,
+        "closing_price_normalized": 1.686638135996196
+    },
+    {
+        "date": "Nov 29, 2013 00:00:00",
+        "closing_price_raw": 114.9,
+        "closing_price_normalized": 1.6790299572039946
+    },
+    {
+        "date": "Dec 02, 2013 00:00:00",
+        "closing_price_raw": 115,
+        "closing_price_normalized": 1.6828340466000953
+    },
+    {
+        "date": "Dec 03, 2013 00:00:00",
+        "closing_price_raw": 114,
+        "closing_price_normalized": 1.644793152639087
+    },
+    {
+        "date": "Dec 04, 2013 00:00:00",
+        "closing_price_raw": 114.3,
+        "closing_price_normalized": 1.6562054208273895
+    },
+    {
+        "date": "Dec 05, 2013 00:00:00",
+        "closing_price_raw": 114.8,
+        "closing_price_normalized": 1.6752258678078935
+    },
+    {
+        "date": "Dec 06, 2013 00:00:00",
+        "closing_price_raw": 114.6,
+        "closing_price_normalized": 1.667617689015692
+    },
+    {
+        "date": "Dec 09, 2013 00:00:00",
+        "closing_price_raw": 114.5,
+        "closing_price_normalized": 1.663813599619591
+    },
+    {
+        "date": "Dec 10, 2013 00:00:00",
+        "closing_price_raw": 114.8,
+        "closing_price_normalized": 1.6752258678078935
+    },
+    {
+        "date": "Dec 11, 2013 00:00:00",
+        "closing_price_raw": 114.5,
+        "closing_price_normalized": 1.663813599619591
+    },
+    {
+        "date": "Dec 12, 2013 00:00:00",
+        "closing_price_raw": 110.5,
+        "closing_price_normalized": 1.5116500237755588
+    },
+    {
+        "date": "Dec 13, 2013 00:00:00",
+        "closing_price_raw": 109.5,
+        "closing_price_normalized": 1.4736091298145508
+    },
+    {
+        "date": "Dec 16, 2013 00:00:00",
+        "closing_price_raw": 111.7,
+        "closing_price_normalized": 1.5572990965287685
+    },
+    {
+        "date": "Dec 17, 2013 00:00:00",
+        "closing_price_raw": 113.2,
+        "closing_price_normalized": 1.614360437470281
+    },
+    {
+        "date": "Dec 18, 2013 00:00:00",
+        "closing_price_raw": 113,
+        "closing_price_normalized": 1.6067522586780791
+    },
+    {
+        "date": "Dec 19, 2013 00:00:00",
+        "closing_price_raw": 113.2,
+        "closing_price_normalized": 1.614360437470281
+    },
+    {
+        "date": "Dec 20, 2013 00:00:00",
+        "closing_price_raw": 116,
+        "closing_price_normalized": 1.7208749405611035
+    },
+    {
+        "date": "Dec 23, 2013 00:00:00",
+        "closing_price_raw": 116,
+        "closing_price_normalized": 1.7208749405611035
+    },
+    {
+        "date": "Dec 26, 2013 00:00:00",
+        "closing_price_raw": 115,
+        "closing_price_normalized": 1.6828340466000953
+    },
+    {
+        "date": "Dec 27, 2013 00:00:00",
+        "closing_price_raw": 115.6,
+        "closing_price_normalized": 1.7056585829767
+    },
+    {
+        "date": "Jan 02, 2014 00:00:00",
+        "closing_price_raw": 117.5,
+        "closing_price_normalized": 1.7779362815026154
+    },
+    {
+        "date": "Jan 03, 2014 00:00:00",
+        "closing_price_raw": 118.1,
+        "closing_price_normalized": 1.8007608178792203
+    },
+    {
+        "date": "Jan 06, 2014 00:00:00",
+        "closing_price_raw": 117.6,
+        "closing_price_normalized": 1.781740370898716
+    },
+    {
+        "date": "Jan 07, 2014 00:00:00",
+        "closing_price_raw": 115.7,
+        "closing_price_normalized": 1.709462672372801
+    },
+    {
+        "date": "Jan 08, 2014 00:00:00",
+        "closing_price_raw": 116.4,
+        "closing_price_normalized": 1.7360912981455068
+    },
+    {
+        "date": "Jan 09, 2014 00:00:00",
+        "closing_price_raw": 116.8,
+        "closing_price_normalized": 1.7513076557299097
+    },
+    {
+        "date": "Jan 10, 2014 00:00:00",
+        "closing_price_raw": 116.9,
+        "closing_price_normalized": 1.755111745126011
+    },
+    {
+        "date": "Jan 13, 2014 00:00:00",
+        "closing_price_raw": 118,
+        "closing_price_normalized": 1.7969567284831194
+    },
+    {
+        "date": "Jan 14, 2014 00:00:00",
+        "closing_price_raw": 116.4,
+        "closing_price_normalized": 1.7360912981455068
+    },
+    {
+        "date": "Jan 15, 2014 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Jan 16, 2014 00:00:00",
+        "closing_price_raw": 117.2,
+        "closing_price_normalized": 1.7665240133143132
+    },
+    {
+        "date": "Jan 17, 2014 00:00:00",
+        "closing_price_raw": 117.1,
+        "closing_price_normalized": 1.762719923918212
+    },
+    {
+        "date": "Jan 20, 2014 00:00:00",
+        "closing_price_raw": 117.5,
+        "closing_price_normalized": 1.7779362815026154
+    },
+    {
+        "date": "Jan 21, 2014 00:00:00",
+        "closing_price_raw": 119.1,
+        "closing_price_normalized": 1.8388017118402282
+    },
+    {
+        "date": "Jan 22, 2014 00:00:00",
+        "closing_price_raw": 122.5,
+        "closing_price_normalized": 1.9681407513076559
+    },
+    {
+        "date": "Jan 23, 2014 00:00:00",
+        "closing_price_raw": 125.8,
+        "closing_price_normalized": 2.0936757013789826
+    },
+    {
+        "date": "Jan 24, 2014 00:00:00",
+        "closing_price_raw": 122,
+        "closing_price_normalized": 1.9491203043271519
+    },
+    {
+        "date": "Jan 27, 2014 00:00:00",
+        "closing_price_raw": 118.5,
+        "closing_price_normalized": 1.8159771754636236
+    },
+    {
+        "date": "Jan 28, 2014 00:00:00",
+        "closing_price_raw": 118,
+        "closing_price_normalized": 1.7969567284831194
+    },
+    {
+        "date": "Jan 29, 2014 00:00:00",
+        "closing_price_raw": 118,
+        "closing_price_normalized": 1.7969567284831194
+    },
+    {
+        "date": "Jan 30, 2014 00:00:00",
+        "closing_price_raw": 114,
+        "closing_price_normalized": 1.644793152639087
+    },
+    {
+        "date": "Feb 03, 2014 00:00:00",
+        "closing_price_raw": 112.5,
+        "closing_price_normalized": 1.5877318116975752
+    },
+    {
+        "date": "Feb 04, 2014 00:00:00",
+        "closing_price_raw": 110.3,
+        "closing_price_normalized": 1.504041844983357
+    },
+    {
+        "date": "Feb 05, 2014 00:00:00",
+        "closing_price_raw": 111.1,
+        "closing_price_normalized": 1.5344745601521637
+    },
+    {
+        "date": "Feb 06, 2014 00:00:00",
+        "closing_price_raw": 111.1,
+        "closing_price_normalized": 1.5344745601521637
+    },
+    {
+        "date": "Feb 07, 2014 00:00:00",
+        "closing_price_raw": 113.1,
+        "closing_price_normalized": 1.6105563480741796
+    },
+    {
+        "date": "Feb 10, 2014 00:00:00",
+        "closing_price_raw": 114.3,
+        "closing_price_normalized": 1.6562054208273895
+    },
+    {
+        "date": "Feb 11, 2014 00:00:00",
+        "closing_price_raw": 114.7,
+        "closing_price_normalized": 1.6714217784117928
+    },
+    {
+        "date": "Feb 12, 2014 00:00:00",
+        "closing_price_raw": 116,
+        "closing_price_normalized": 1.7208749405611035
+    },
+    {
+        "date": "Feb 13, 2014 00:00:00",
+        "closing_price_raw": 116,
+        "closing_price_normalized": 1.7208749405611035
+    },
+    {
+        "date": "Feb 14, 2014 00:00:00",
+        "closing_price_raw": 118,
+        "closing_price_normalized": 1.7969567284831194
+    },
+    {
+        "date": "Feb 17, 2014 00:00:00",
+        "closing_price_raw": 119.3,
+        "closing_price_normalized": 1.84640989063243
+    },
+    {
+        "date": "Feb 18, 2014 00:00:00",
+        "closing_price_raw": 118.1,
+        "closing_price_normalized": 1.8007608178792203
+    },
+    {
+        "date": "Feb 19, 2014 00:00:00",
+        "closing_price_raw": 118.4,
+        "closing_price_normalized": 1.812173086067523
+    },
+    {
+        "date": "Feb 20, 2014 00:00:00",
+        "closing_price_raw": 118.9,
+        "closing_price_normalized": 1.831193533048027
+    },
+    {
+        "date": "Feb 21, 2014 00:00:00",
+        "closing_price_raw": 119.5,
+        "closing_price_normalized": 1.8540180694246318
+    },
+    {
+        "date": "Feb 24, 2014 00:00:00",
+        "closing_price_raw": 119.6,
+        "closing_price_normalized": 1.8578221588207322
+    },
+    {
+        "date": "Feb 25, 2014 00:00:00",
+        "closing_price_raw": 118.6,
+        "closing_price_normalized": 1.8197812648597242
+    },
+    {
+        "date": "Feb 26, 2014 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Feb 27, 2014 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Feb 28, 2014 00:00:00",
+        "closing_price_raw": 117,
+        "closing_price_normalized": 1.7589158345221114
+    },
+    {
+        "date": "Mar 03, 2014 00:00:00",
+        "closing_price_raw": 116.2,
+        "closing_price_normalized": 1.7284831193533052
+    },
+    {
+        "date": "Mar 04, 2014 00:00:00",
+        "closing_price_raw": 115.7,
+        "closing_price_normalized": 1.709462672372801
+    },
+    {
+        "date": "Mar 05, 2014 00:00:00",
+        "closing_price_raw": 115.7,
+        "closing_price_normalized": 1.709462672372801
+    },
+    {
+        "date": "Mar 06, 2014 00:00:00",
+        "closing_price_raw": 114.5,
+        "closing_price_normalized": 1.663813599619591
+    },
+    {
+        "date": "Mar 07, 2014 00:00:00",
+        "closing_price_raw": 112.7,
+        "closing_price_normalized": 1.595339990489777
+    },
+    {
+        "date": "Mar 10, 2014 00:00:00",
+        "closing_price_raw": 111.7,
+        "closing_price_normalized": 1.5572990965287685
+    },
+    {
+        "date": "Mar 11, 2014 00:00:00",
+        "closing_price_raw": 111.1,
+        "closing_price_normalized": 1.5344745601521637
+    },
+    {
+        "date": "Mar 12, 2014 00:00:00",
+        "closing_price_raw": 111,
+        "closing_price_normalized": 1.5306704707560628
+    },
+    {
+        "date": "Mar 13, 2014 00:00:00",
+        "closing_price_raw": 111.2,
+        "closing_price_normalized": 1.5382786495482645
+    },
+    {
+        "date": "Mar 14, 2014 00:00:00",
+        "closing_price_raw": 111.9,
+        "closing_price_normalized": 1.5649072753209703
+    },
+    {
+        "date": "Mar 17, 2014 00:00:00",
+        "closing_price_raw": 111.3,
+        "closing_price_normalized": 1.5420827389443652
+    },
+    {
+        "date": "Mar 18, 2014 00:00:00",
+        "closing_price_raw": 110.9,
+        "closing_price_normalized": 1.5268663813599623
+    },
+    {
+        "date": "Mar 19, 2014 00:00:00",
+        "closing_price_raw": 111.7,
+        "closing_price_normalized": 1.5572990965287685
+    },
+    {
+        "date": "Mar 20, 2014 00:00:00",
+        "closing_price_raw": 111.8,
+        "closing_price_normalized": 1.5611031859248694
+    },
+    {
+        "date": "Mar 21, 2014 00:00:00",
+        "closing_price_raw": 111.5,
+        "closing_price_normalized": 1.549690917736567
+    },
+    {
+        "date": "Mar 24, 2014 00:00:00",
+        "closing_price_raw": 110.2,
+        "closing_price_normalized": 1.5002377555872566
+    },
+    {
+        "date": "Mar 25, 2014 00:00:00",
+        "closing_price_raw": 110,
+        "closing_price_normalized": 1.4926295767950548
+    },
+    {
+        "date": "Mar 26, 2014 00:00:00",
+        "closing_price_raw": 107.5,
+        "closing_price_normalized": 1.3975273418925347
+    },
+    {
+        "date": "Mar 27, 2014 00:00:00",
+        "closing_price_raw": 105.1,
+        "closing_price_normalized": 1.306229196386115
+    },
+    {
+        "date": "Mar 28, 2014 00:00:00",
+        "closing_price_raw": 106.5,
+        "closing_price_normalized": 1.3594864479315265
+    },
+    {
+        "date": "Mar 31, 2014 00:00:00",
+        "closing_price_raw": 106,
+        "closing_price_normalized": 1.3404660009510225
+    },
+    {
+        "date": "Apr 01, 2014 00:00:00",
+        "closing_price_raw": 106.7,
+        "closing_price_normalized": 1.3670946267237283
+    },
+    {
+        "date": "Apr 02, 2014 00:00:00",
+        "closing_price_raw": 106.6,
+        "closing_price_normalized": 1.3632905373276272
+    },
+    {
+        "date": "Apr 03, 2014 00:00:00",
+        "closing_price_raw": 108,
+        "closing_price_normalized": 1.4165477888730387
+    },
+    {
+        "date": "Apr 04, 2014 00:00:00",
+        "closing_price_raw": 109,
+        "closing_price_normalized": 1.4545886828340469
+    },
+    {
+        "date": "Apr 07, 2014 00:00:00",
+        "closing_price_raw": 108.5,
+        "closing_price_normalized": 1.4355682358535427
+    },
+    {
+        "date": "Apr 08, 2014 00:00:00",
+        "closing_price_raw": 109.1,
+        "closing_price_normalized": 1.4583927722301473
+    },
+    {
+        "date": "Apr 10, 2014 00:00:00",
+        "closing_price_raw": 112,
+        "closing_price_normalized": 1.568711364717071
+    },
+    {
+        "date": "Apr 11, 2014 00:00:00",
+        "closing_price_raw": 111,
+        "closing_price_normalized": 1.5306704707560628
+    },
+    {
+        "date": "Apr 14, 2014 00:00:00",
+        "closing_price_raw": 110.9,
+        "closing_price_normalized": 1.5268663813599623
+    },
+    {
+        "date": "Apr 15, 2014 00:00:00",
+        "closing_price_raw": 111.2,
+        "closing_price_normalized": 1.5382786495482645
+    },
+    {
+        "date": "Apr 16, 2014 00:00:00",
+        "closing_price_raw": 111.2,
+        "closing_price_normalized": 1.5382786495482645
+    },
+    {
+        "date": "Apr 21, 2014 00:00:00",
+        "closing_price_raw": 112.7,
+        "closing_price_normalized": 1.595339990489777
+    },
+    {
+        "date": "Apr 22, 2014 00:00:00",
+        "closing_price_raw": 112.9,
+        "closing_price_normalized": 1.6029481692819785
+    },
+    {
+        "date": "Apr 23, 2014 00:00:00",
+        "closing_price_raw": 113.2,
+        "closing_price_normalized": 1.614360437470281
+    },
+    {
+        "date": "Apr 24, 2014 00:00:00",
+        "closing_price_raw": 113,
+        "closing_price_normalized": 1.6067522586780791
+    },
+    {
+        "date": "Apr 25, 2014 00:00:00",
+        "closing_price_raw": 113.1,
+        "closing_price_normalized": 1.6105563480741796
+    },
+    {
+        "date": "Apr 28, 2014 00:00:00",
+        "closing_price_raw": 112.2,
+        "closing_price_normalized": 1.5763195435092727
+    },
+    {
+        "date": "Apr 29, 2014 00:00:00",
+        "closing_price_raw": 113.2,
+        "closing_price_normalized": 1.614360437470281
+    },
+    {
+        "date": "Apr 30, 2014 00:00:00",
+        "closing_price_raw": 120.1,
+        "closing_price_normalized": 1.8768426058012362
+    },
+    {
+        "date": "May 02, 2014 00:00:00",
+        "closing_price_raw": 120.2,
+        "closing_price_normalized": 1.8806466951973375
+    },
+    {
+        "date": "May 05, 2014 00:00:00",
+        "closing_price_raw": 123.2,
+        "closing_price_normalized": 1.9947693770803618
+    },
+    {
+        "date": "May 06, 2014 00:00:00",
+        "closing_price_raw": 123,
+        "closing_price_normalized": 1.98716119828816
+    },
+    {
+        "date": "May 07, 2014 00:00:00",
+        "closing_price_raw": 122,
+        "closing_price_normalized": 1.9491203043271519
+    },
+    {
+        "date": "May 08, 2014 00:00:00",
+        "closing_price_raw": 122,
+        "closing_price_normalized": 1.9491203043271519
+    },
+    {
+        "date": "May 09, 2014 00:00:00",
+        "closing_price_raw": 122.7,
+        "closing_price_normalized": 1.9757489300998576
+    },
+    {
+        "date": "May 12, 2014 00:00:00",
+        "closing_price_raw": 124.5,
+        "closing_price_normalized": 2.044222539229672
+    },
+    {
+        "date": "May 13, 2014 00:00:00",
+        "closing_price_raw": 124,
+        "closing_price_normalized": 2.025202092249168
+    },
+    {
+        "date": "May 14, 2014 00:00:00",
+        "closing_price_raw": 122.5,
+        "closing_price_normalized": 1.9681407513076559
+    },
+    {
+        "date": "May 15, 2014 00:00:00",
+        "closing_price_raw": 124.1,
+        "closing_price_normalized": 2.0290061816452685
+    },
+    {
+        "date": "May 16, 2014 00:00:00",
+        "closing_price_raw": 124.3,
+        "closing_price_normalized": 2.0366143604374702
+    },
+    {
+        "date": "May 19, 2014 00:00:00",
+        "closing_price_raw": 127.9,
+        "closing_price_normalized": 2.1735615786971
+    },
+    {
+        "date": "May 20, 2014 00:00:00",
+        "closing_price_raw": 127.6,
+        "closing_price_normalized": 2.1621493105087968
+    },
+    {
+        "date": "May 21, 2014 00:00:00",
+        "closing_price_raw": 123.9,
+        "closing_price_normalized": 2.0213980028530676
+    },
+    {
+        "date": "May 22, 2014 00:00:00",
+        "closing_price_raw": 124.9,
+        "closing_price_normalized": 2.0594388968140755
+    },
+    {
+        "date": "May 23, 2014 00:00:00",
+        "closing_price_raw": 124,
+        "closing_price_normalized": 2.025202092249168
+    },
+    {
+        "date": "May 26, 2014 00:00:00",
+        "closing_price_raw": 124,
+        "closing_price_normalized": 2.025202092249168
+    },
+    {
+        "date": "May 27, 2014 00:00:00",
+        "closing_price_raw": 123.8,
+        "closing_price_normalized": 2.0175939134569663
+    },
+    {
+        "date": "May 28, 2014 00:00:00",
+        "closing_price_raw": 124,
+        "closing_price_normalized": 2.025202092249168
+    },
+    {
+        "date": "May 29, 2014 00:00:00",
+        "closing_price_raw": 124,
+        "closing_price_normalized": 2.025202092249168
+    },
+    {
+        "date": "May 30, 2014 00:00:00",
+        "closing_price_raw": 123.8,
+        "closing_price_normalized": 2.0175939134569663
+    },
+    {
+        "date": "Jun 02, 2014 00:00:00",
+        "closing_price_raw": 125,
+        "closing_price_normalized": 2.0632429862101764
+    },
+    {
+        "date": "Jun 03, 2014 00:00:00",
+        "closing_price_raw": 128,
+        "closing_price_normalized": 2.1773656680932003
+    },
+    {
+        "date": "Jun 04, 2014 00:00:00",
+        "closing_price_raw": 127.9,
+        "closing_price_normalized": 2.1735615786971
+    },
+    {
+        "date": "Jun 05, 2014 00:00:00",
+        "closing_price_raw": 127.6,
+        "closing_price_normalized": 2.1621493105087968
+    },
+    {
+        "date": "Jun 06, 2014 00:00:00",
+        "closing_price_raw": 126.4,
+        "closing_price_normalized": 2.116500237755588
+    },
+    {
+        "date": "Jun 09, 2014 00:00:00",
+        "closing_price_raw": 125,
+        "closing_price_normalized": 2.0632429862101764
+    },
+    {
+        "date": "Jun 10, 2014 00:00:00",
+        "closing_price_raw": 122.6,
+        "closing_price_normalized": 1.9719448407037565
+    },
+    {
+        "date": "Jun 11, 2014 00:00:00",
+        "closing_price_raw": 122,
+        "closing_price_normalized": 1.9491203043271519
+    },
+    {
+        "date": "Jun 13, 2014 00:00:00",
+        "closing_price_raw": 121.9,
+        "closing_price_normalized": 1.9453162149310512
+    },
+    {
+        "date": "Jun 16, 2014 00:00:00",
+        "closing_price_raw": 120,
+        "closing_price_normalized": 1.8730385164051357
+    },
+    {
+        "date": "Jun 17, 2014 00:00:00",
+        "closing_price_raw": 118.9,
+        "closing_price_normalized": 1.831193533048027
+    },
+    {
+        "date": "Jun 18, 2014 00:00:00",
+        "closing_price_raw": 120.5,
+        "closing_price_normalized": 1.8920589633856397
+    },
+    {
+        "date": "Jun 19, 2014 00:00:00",
+        "closing_price_raw": 121,
+        "closing_price_normalized": 1.9110794103661437
+    },
+    {
+        "date": "Jun 20, 2014 00:00:00",
+        "closing_price_raw": 120.5,
+        "closing_price_normalized": 1.8920589633856397
+    },
+    {
+        "date": "Jun 23, 2014 00:00:00",
+        "closing_price_raw": 120.7,
+        "closing_price_normalized": 1.8996671421778415
+    },
+    {
+        "date": "Jun 24, 2014 00:00:00",
+        "closing_price_raw": 119.6,
+        "closing_price_normalized": 1.8578221588207322
+    },
+    {
+        "date": "Jun 25, 2014 00:00:00",
+        "closing_price_raw": 123,
+        "closing_price_normalized": 1.98716119828816
+    },
+    {
+        "date": "Jun 26, 2014 00:00:00",
+        "closing_price_raw": 123.3,
+        "closing_price_normalized": 1.9985734664764623
+    },
+    {
+        "date": "Jun 27, 2014 00:00:00",
+        "closing_price_raw": 123.4,
+        "closing_price_normalized": 2.002377555872563
+    },
+    {
+        "date": "Jun 30, 2014 00:00:00",
+        "closing_price_raw": 123.3,
+        "closing_price_normalized": 1.9985734664764623
+    },
+    {
+        "date": "Jul 01, 2014 00:00:00",
+        "closing_price_raw": 123.6,
+        "closing_price_normalized": 2.0099857346647645
+    },
+    {
+        "date": "Jul 02, 2014 00:00:00",
+        "closing_price_raw": 122.7,
+        "closing_price_normalized": 1.9757489300998576
+    },
+    {
+        "date": "Jul 03, 2014 00:00:00",
+        "closing_price_raw": 123.2,
+        "closing_price_normalized": 1.9947693770803618
+    },
+    {
+        "date": "Jul 04, 2014 00:00:00",
+        "closing_price_raw": 123.5,
+        "closing_price_normalized": 2.006181645268664
+    },
+    {
+        "date": "Jul 07, 2014 00:00:00",
+        "closing_price_raw": 124.5,
+        "closing_price_normalized": 2.044222539229672
+    },
+    {
+        "date": "Jul 08, 2014 00:00:00",
+        "closing_price_raw": 123.9,
+        "closing_price_normalized": 2.0213980028530676
+    },
+    {
+        "date": "Jul 09, 2014 00:00:00",
+        "closing_price_raw": 123.7,
+        "closing_price_normalized": 2.013789824060866
+    },
+    {
+        "date": "Jul 10, 2014 00:00:00",
+        "closing_price_raw": 123.4,
+        "closing_price_normalized": 2.002377555872563
+    },
+    {
+        "date": "Jul 11, 2014 00:00:00",
+        "closing_price_raw": 123.4,
+        "closing_price_normalized": 2.002377555872563
+    },
+    {
+        "date": "Jul 14, 2014 00:00:00",
+        "closing_price_raw": 121.9,
+        "closing_price_normalized": 1.9453162149310512
+    },
+    {
+        "date": "Jul 15, 2014 00:00:00",
+        "closing_price_raw": 121.4,
+        "closing_price_normalized": 1.9262957679505472
+    },
+    {
+        "date": "Jul 17, 2014 00:00:00",
+        "closing_price_raw": 119.4,
+        "closing_price_normalized": 1.850213980028531
+    },
+    {
+        "date": "Jul 18, 2014 00:00:00",
+        "closing_price_raw": 119,
+        "closing_price_normalized": 1.8349976224441276
+    },
+    {
+        "date": "Jul 21, 2014 00:00:00",
+        "closing_price_raw": 118.6,
+        "closing_price_normalized": 1.8197812648597242
+    },
+    {
+        "date": "Jul 22, 2014 00:00:00",
+        "closing_price_raw": 119,
+        "closing_price_normalized": 1.8349976224441276
+    },
+    {
+        "date": "Jul 23, 2014 00:00:00",
+        "closing_price_raw": 119,
+        "closing_price_normalized": 1.8349976224441276
+    },
+    {
+        "date": "Jul 24, 2014 00:00:00",
+        "closing_price_raw": 121,
+        "closing_price_normalized": 1.9110794103661437
+    },
+    {
+        "date": "Jul 25, 2014 00:00:00",
+        "closing_price_raw": 121.9,
+        "closing_price_normalized": 1.9453162149310512
+    },
+    {
+        "date": "Jul 28, 2014 00:00:00",
+        "closing_price_raw": 120.8,
+        "closing_price_normalized": 1.903471231573942
+    },
+    {
+        "date": "Jul 30, 2014 00:00:00",
+        "closing_price_raw": 120,
+        "closing_price_normalized": 1.8730385164051357
+    },
+    {
+        "date": "Jul 31, 2014 00:00:00",
+        "closing_price_raw": 120,
+        "closing_price_normalized": 1.8730385164051357
+    },
+    {
+        "date": "Aug 01, 2014 00:00:00",
+        "closing_price_raw": 121,
+        "closing_price_normalized": 1.9110794103661437
+    },
+    {
+        "date": "Aug 04, 2014 00:00:00",
+        "closing_price_raw": 121.8,
+        "closing_price_normalized": 1.9415121255349501
+    },
+    {
+        "date": "Aug 05, 2014 00:00:00",
+        "closing_price_raw": 121.5,
+        "closing_price_normalized": 1.9300998573466477
+    },
+    {
+        "date": "Aug 06, 2014 00:00:00",
+        "closing_price_raw": 121.4,
+        "closing_price_normalized": 1.9262957679505472
+    },
+    {
+        "date": "Aug 07, 2014 00:00:00",
+        "closing_price_raw": 121.7,
+        "closing_price_normalized": 1.9377080361388495
+    },
+    {
+        "date": "Aug 08, 2014 00:00:00",
+        "closing_price_raw": 122,
+        "closing_price_normalized": 1.9491203043271519
+    },
+    {
+        "date": "Aug 11, 2014 00:00:00",
+        "closing_price_raw": 123.6,
+        "closing_price_normalized": 2.0099857346647645
+    },
+    {
+        "date": "Aug 12, 2014 00:00:00",
+        "closing_price_raw": 125,
+        "closing_price_normalized": 2.0632429862101764
+    },
+    {
+        "date": "Aug 13, 2014 00:00:00",
+        "closing_price_raw": 127,
+        "closing_price_normalized": 2.1393247741321924
+    },
+    {
+        "date": "Aug 14, 2014 00:00:00",
+        "closing_price_raw": 128.5,
+        "closing_price_normalized": 2.1963861150737047
+    },
+    {
+        "date": "Aug 15, 2014 00:00:00",
+        "closing_price_raw": 129,
+        "closing_price_normalized": 2.2154065620542083
+    },
+    {
+        "date": "Aug 18, 2014 00:00:00",
+        "closing_price_raw": 128.5,
+        "closing_price_normalized": 2.1963861150737047
+    },
+    {
+        "date": "Aug 19, 2014 00:00:00",
+        "closing_price_raw": 126.2,
+        "closing_price_normalized": 2.108892058963386
+    },
+    {
+        "date": "Aug 20, 2014 00:00:00",
+        "closing_price_raw": 127,
+        "closing_price_normalized": 2.1393247741321924
+    },
+    {
+        "date": "Aug 22, 2014 00:00:00",
+        "closing_price_raw": 126.7,
+        "closing_price_normalized": 2.1279125059438897
+    },
+    {
+        "date": "Aug 26, 2014 00:00:00",
+        "closing_price_raw": 126.7,
+        "closing_price_normalized": 2.1279125059438897
+    },
+    {
+        "date": "Aug 27, 2014 00:00:00",
+        "closing_price_raw": 126.9,
+        "closing_price_normalized": 2.1355206847360915
+    },
+    {
+        "date": "Aug 28, 2014 00:00:00",
+        "closing_price_raw": 127,
+        "closing_price_normalized": 2.1393247741321924
+    },
+    {
+        "date": "Aug 29, 2014 00:00:00",
+        "closing_price_raw": 126.6,
+        "closing_price_normalized": 2.124108416547789
+    },
+    {
+        "date": "Sep 01, 2014 00:00:00",
+        "closing_price_raw": 127,
+        "closing_price_normalized": 2.1393247741321924
+    },
+    {
+        "date": "Sep 02, 2014 00:00:00",
+        "closing_price_raw": 128,
+        "closing_price_normalized": 2.1773656680932003
+    },
+    {
+        "date": "Sep 03, 2014 00:00:00",
+        "closing_price_raw": 130,
+        "closing_price_normalized": 2.2534474560152167
+    },
+    {
+        "date": "Sep 04, 2014 00:00:00",
+        "closing_price_raw": 132,
+        "closing_price_normalized": 2.329529243937233
+    },
+    {
+        "date": "Sep 05, 2014 00:00:00",
+        "closing_price_raw": 134,
+        "closing_price_normalized": 2.405611031859249
+    },
+    {
+        "date": "Sep 08, 2014 00:00:00",
+        "closing_price_raw": 134.3,
+        "closing_price_normalized": 2.4170233000475516
+    },
+    {
+        "date": "Sep 09, 2014 00:00:00",
+        "closing_price_raw": 134.5,
+        "closing_price_normalized": 2.424631478839753
+    },
+    {
+        "date": "Sep 10, 2014 00:00:00",
+        "closing_price_raw": 135,
+        "closing_price_normalized": 2.443651925820257
+    },
+    {
+        "date": "Sep 11, 2014 00:00:00",
+        "closing_price_raw": 133,
+        "closing_price_normalized": 2.367570137898241
+    },
+    {
+        "date": "Sep 12, 2014 00:00:00",
+        "closing_price_raw": 133.5,
+        "closing_price_normalized": 2.386590584878745
+    },
+    {
+        "date": "Sep 15, 2014 00:00:00",
+        "closing_price_raw": 134,
+        "closing_price_normalized": 2.405611031859249
+    },
+    {
+        "date": "Sep 16, 2014 00:00:00",
+        "closing_price_raw": 137.3,
+        "closing_price_normalized": 2.531145981930576
+    },
+    {
+        "date": "Sep 17, 2014 00:00:00",
+        "closing_price_raw": 142,
+        "closing_price_normalized": 2.7099381835473135
+    },
+    {
+        "date": "Sep 18, 2014 00:00:00",
+        "closing_price_raw": 142.5,
+        "closing_price_normalized": 2.728958630527818
+    },
+    {
+        "date": "Sep 22, 2014 00:00:00",
+        "closing_price_raw": 142.9,
+        "closing_price_normalized": 2.744174988112221
+    },
+    {
+        "date": "Sep 23, 2014 00:00:00",
+        "closing_price_raw": 142.2,
+        "closing_price_normalized": 2.717546362339515
+    },
+    {
+        "date": "Sep 24, 2014 00:00:00",
+        "closing_price_raw": 141.4,
+        "closing_price_normalized": 2.687113647170709
+    },
+    {
+        "date": "Sep 25, 2014 00:00:00",
+        "closing_price_raw": 140.1,
+        "closing_price_normalized": 2.637660485021398
+    },
+    {
+        "date": "Sep 26, 2014 00:00:00",
+        "closing_price_raw": 141,
+        "closing_price_normalized": 2.6718972895863056
+    },
+    {
+        "date": "Sep 29, 2014 00:00:00",
+        "closing_price_raw": 144,
+        "closing_price_normalized": 2.78601997146933
+    },
+    {
+        "date": "Sep 30, 2014 00:00:00",
+        "closing_price_raw": 146.8,
+        "closing_price_normalized": 2.892534474560153
+    },
+    {
+        "date": "Oct 01, 2014 00:00:00",
+        "closing_price_raw": 144.5,
+        "closing_price_normalized": 2.805040418449834
+    },
+    {
+        "date": "Oct 02, 2014 00:00:00",
+        "closing_price_raw": 140.3,
+        "closing_price_normalized": 2.6452686638136003
+    },
+    {
+        "date": "Oct 03, 2014 00:00:00",
+        "closing_price_raw": 140.2,
+        "closing_price_normalized": 2.6414645744174985
+    },
+    {
+        "date": "Oct 07, 2014 00:00:00",
+        "closing_price_raw": 140.5,
+        "closing_price_normalized": 2.6528768426058016
+    },
+    {
+        "date": "Oct 08, 2014 00:00:00",
+        "closing_price_raw": 140,
+        "closing_price_normalized": 2.6338563956252976
+    },
+    {
+        "date": "Oct 09, 2014 00:00:00",
+        "closing_price_raw": 140.3,
+        "closing_price_normalized": 2.6452686638136003
+    },
+    {
+        "date": "Oct 10, 2014 00:00:00",
+        "closing_price_raw": 139.5,
+        "closing_price_normalized": 2.614835948644793
+    },
+    {
+        "date": "Oct 13, 2014 00:00:00",
+        "closing_price_raw": 134.5,
+        "closing_price_normalized": 2.424631478839753
+    },
+    {
+        "date": "Oct 14, 2014 00:00:00",
+        "closing_price_raw": 136.1,
+        "closing_price_normalized": 2.4854969091773658
+    },
+    {
+        "date": "Oct 15, 2014 00:00:00",
+        "closing_price_raw": 136.5,
+        "closing_price_normalized": 2.5007132667617693
+    },
+    {
+        "date": "Oct 16, 2014 00:00:00",
+        "closing_price_raw": 136.5,
+        "closing_price_normalized": 2.5007132667617693
+    },
+    {
+        "date": "Oct 17, 2014 00:00:00",
+        "closing_price_raw": 136.3,
+        "closing_price_normalized": 2.493105087969568
+    },
+    {
+        "date": "Oct 20, 2014 00:00:00",
+        "closing_price_raw": 139.3,
+        "closing_price_normalized": 2.6072277698525923
+    },
+    {
+        "date": "Oct 21, 2014 00:00:00",
+        "closing_price_raw": 142.3,
+        "closing_price_normalized": 2.721350451735616
+    },
+    {
+        "date": "Oct 22, 2014 00:00:00",
+        "closing_price_raw": 145.7,
+        "closing_price_normalized": 2.850689491203043
+    },
+    {
+        "date": "Oct 23, 2014 00:00:00",
+        "closing_price_raw": 144,
+        "closing_price_normalized": 2.78601997146933
+    },
+    {
+        "date": "Oct 24, 2014 00:00:00",
+        "closing_price_raw": 141.9,
+        "closing_price_normalized": 2.706134094151213
+    },
+    {
+        "date": "Oct 27, 2014 00:00:00",
+        "closing_price_raw": 142.4,
+        "closing_price_normalized": 2.725154541131717
+    },
+    {
+        "date": "Oct 28, 2014 00:00:00",
+        "closing_price_raw": 143.1,
+        "closing_price_normalized": 2.7517831669044224
+    },
+    {
+        "date": "Oct 29, 2014 00:00:00",
+        "closing_price_raw": 146,
+        "closing_price_normalized": 2.8621017593913463
+    },
+    {
+        "date": "Oct 30, 2014 00:00:00",
+        "closing_price_raw": 143.4,
+        "closing_price_normalized": 2.763195435092725
+    },
+    {
+        "date": "Oct 31, 2014 00:00:00",
+        "closing_price_raw": 143.6,
+        "closing_price_normalized": 2.7708036138849264
+    },
+    {
+        "date": "Nov 03, 2014 00:00:00",
+        "closing_price_raw": 148,
+        "closing_price_normalized": 2.938183547313362
+    },
+    {
+        "date": "Nov 04, 2014 00:00:00",
+        "closing_price_raw": 151.7,
+        "closing_price_normalized": 3.078934854969092
+    },
+    {
+        "date": "Nov 05, 2014 00:00:00",
+        "closing_price_raw": 150.5,
+        "closing_price_normalized": 3.0332857822158825
+    },
+    {
+        "date": "Nov 06, 2014 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Nov 07, 2014 00:00:00",
+        "closing_price_raw": 153,
+        "closing_price_normalized": 3.1283880171184024
+    },
+    {
+        "date": "Nov 10, 2014 00:00:00",
+        "closing_price_raw": 155,
+        "closing_price_normalized": 3.204469805040419
+    },
+    {
+        "date": "Nov 11, 2014 00:00:00",
+        "closing_price_raw": 153.5,
+        "closing_price_normalized": 3.1474084640989064
+    },
+    {
+        "date": "Nov 12, 2014 00:00:00",
+        "closing_price_raw": 152.5,
+        "closing_price_normalized": 3.1093675701378984
+    },
+    {
+        "date": "Nov 13, 2014 00:00:00",
+        "closing_price_raw": 152.5,
+        "closing_price_normalized": 3.1093675701378984
+    },
+    {
+        "date": "Nov 14, 2014 00:00:00",
+        "closing_price_raw": 153.9,
+        "closing_price_normalized": 3.16262482168331
+    },
+    {
+        "date": "Nov 17, 2014 00:00:00",
+        "closing_price_raw": 153.2,
+        "closing_price_normalized": 3.1359961959106037
+    },
+    {
+        "date": "Nov 18, 2014 00:00:00",
+        "closing_price_raw": 155.6,
+        "closing_price_normalized": 3.227294341417023
+    },
+    {
+        "date": "Nov 19, 2014 00:00:00",
+        "closing_price_raw": 160,
+        "closing_price_normalized": 3.394674274845459
+    },
+    {
+        "date": "Nov 20, 2014 00:00:00",
+        "closing_price_raw": 159.8,
+        "closing_price_normalized": 3.387066096053258
+    },
+    {
+        "date": "Nov 21, 2014 00:00:00",
+        "closing_price_raw": 159.5,
+        "closing_price_normalized": 3.375653827864955
+    },
+    {
+        "date": "Nov 24, 2014 00:00:00",
+        "closing_price_raw": 158.9,
+        "closing_price_normalized": 3.3528292914883506
+    },
+    {
+        "date": "Nov 25, 2014 00:00:00",
+        "closing_price_raw": 160.5,
+        "closing_price_normalized": 3.413694721825963
+    },
+    {
+        "date": "Nov 26, 2014 00:00:00",
+        "closing_price_raw": 157,
+        "closing_price_normalized": 3.2805515929624347
+    },
+    {
+        "date": "Nov 27, 2014 00:00:00",
+        "closing_price_raw": 156,
+        "closing_price_normalized": 3.2425106990014267
+    },
+    {
+        "date": "Nov 28, 2014 00:00:00",
+        "closing_price_raw": 158,
+        "closing_price_normalized": 3.318592486923443
+    },
+    {
+        "date": "Dec 01, 2014 00:00:00",
+        "closing_price_raw": 158.1,
+        "closing_price_normalized": 3.3223965763195435
+    },
+    {
+        "date": "Dec 02, 2014 00:00:00",
+        "closing_price_raw": 158,
+        "closing_price_normalized": 3.318592486923443
+    },
+    {
+        "date": "Dec 03, 2014 00:00:00",
+        "closing_price_raw": 157.5,
+        "closing_price_normalized": 3.299572039942939
+    },
+    {
+        "date": "Dec 04, 2014 00:00:00",
+        "closing_price_raw": 158.5,
+        "closing_price_normalized": 3.337612933903947
+    },
+    {
+        "date": "Dec 05, 2014 00:00:00",
+        "closing_price_raw": 153.9,
+        "closing_price_normalized": 3.16262482168331
+    },
+    {
+        "date": "Dec 09, 2014 00:00:00",
+        "closing_price_raw": 151.5,
+        "closing_price_normalized": 3.0713266761768905
+    },
+    {
+        "date": "Dec 10, 2014 00:00:00",
+        "closing_price_raw": 152,
+        "closing_price_normalized": 3.0903471231573945
+    },
+    {
+        "date": "Dec 11, 2014 00:00:00",
+        "closing_price_raw": 150.5,
+        "closing_price_normalized": 3.0332857822158825
+    },
+    {
+        "date": "Dec 12, 2014 00:00:00",
+        "closing_price_raw": 152.3,
+        "closing_price_normalized": 3.101759391345697
+    },
+    {
+        "date": "Dec 15, 2014 00:00:00",
+        "closing_price_raw": 151,
+        "closing_price_normalized": 3.0523062291963865
+    },
+    {
+        "date": "Dec 16, 2014 00:00:00",
+        "closing_price_raw": 149.5,
+        "closing_price_normalized": 2.9952448882548746
+    },
+    {
+        "date": "Dec 17, 2014 00:00:00",
+        "closing_price_raw": 147.3,
+        "closing_price_normalized": 2.911554921540657
+    },
+    {
+        "date": "Dec 18, 2014 00:00:00",
+        "closing_price_raw": 148,
+        "closing_price_normalized": 2.938183547313362
+    },
+    {
+        "date": "Dec 19, 2014 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Dec 22, 2014 00:00:00",
+        "closing_price_raw": 147.7,
+        "closing_price_normalized": 2.9267712791250595
+    },
+    {
+        "date": "Dec 23, 2014 00:00:00",
+        "closing_price_raw": 150,
+        "closing_price_normalized": 3.014265335235378
+    },
+    {
+        "date": "Dec 29, 2014 00:00:00",
+        "closing_price_raw": 152,
+        "closing_price_normalized": 3.0903471231573945
+    }
+]
